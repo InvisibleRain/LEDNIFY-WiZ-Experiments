@@ -14,6 +14,6 @@ The stock firmware is unencrypted and contains Wi-Fi SSIDs and passwords (even a
 The firmware contains a few outdated certificates, and it appears that they are also used for getting the firmware from WiZs' servers. There's a public key, presumably for HPKP. The firmware image has been edited to remove Wi-Fi credentials.
 Further analysis is still pending.
 
-![Front side of the board](front.png)
+![Front side of the board](front.jpg)
 
-![Backside of the board](back.png)
+![Backside of the board](back.jpg)
