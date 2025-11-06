@@ -26,7 +26,7 @@ Pins:
 
 Dumping the firmware requires a full (and quite destructive) teardown of the lighbulb case, however no (de)soldering is required to access the UART pins. Reading (and possibly writing) of the firmware is possible. 
 The stock firmware is unencrypted and contains Wi-Fi SSIDs and passwords (even after unpairing it from the WiZ app!) and firmware download URLs.
-The firmware contains a few outdated certificates, and it appears that they are also used for getting the firmware from WiZs' servers. There's a public key, presumably for HPKP. The firmware image has been edited to remove Wi-Fi credentials.
+The firmware contains a few outdated certificates, and it appears that they are also used for getting the firmware from WiZs' servers. There's a public key, presumably for HPKP or fimware signature verification. The firmware image has been edited to remove Wi-Fi credentials.
 Further analysis is still pending.
 
 ![Upper side of the board](upper.jpg)
