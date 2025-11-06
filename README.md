@@ -6,3 +6,4 @@ Playing with various LEDNIFY / WiZ Devices and checking their hackability
  - [Smart Plug / 422330](smart_plug/doc.md)
  - [RGB LED Lights / 429316](esp32_light/doc.md)
  - [E14 Lightbulb / Gauss 1110112](8285-1711C/doc.md)
+ - [E27 Lightbulb / Gauss 1080112](8285-2416P/doc.md)
