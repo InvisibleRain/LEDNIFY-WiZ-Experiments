@@ -5,7 +5,6 @@
 SoC: WIZ 8285-2416P board (ESP8285) internal 1MB Flash
 
 Pins:
- - GPIO0: Programming Mode
 - RST: External reset signal (Low voltage level: Active)
 - AD: ADC pin (Connected to internal WiZclick circuit)
 - EN: Enable pin (Internal pull up), active high.
@@ -17,7 +16,7 @@ Pins:
 - GND: Power Ground
 - GPIO15: GPIO15 (10K internal pull-low added), PWM output for LED driver (G)
 - GPIO2: GPIO2
-- GPIO0: GPIO0
+- GPIO0: Programming Mode
 - GPIO4: GPIO4, PWM output for LED driver (WW)
 - GPIO5: GPIO5 (or IR)
 - RXD0: UART\_Rx; GPIO3
