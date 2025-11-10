@@ -1,0 +1,7414 @@
+v1.34.1-432-g4c7ae931-dirty
+wizlight
+10:02:20
+Sep  5 2025
+5c5635c119
+serial-num
+device-id
+hardware-ver
+hw-ver-str
+mfg-date
+pin-code
+discriminator
+iteration-count
+salt
+verifier
+dac-cert
+dac-key
+dac-pub-key
+pai-cert
+cert-dclrn
+vendor-id
+vendor-name
+product-id
+product-name
+product-label
+product-url
+rd-id-uid
+product-finish
+product-color
+device-type
+fail-safe-armed
+reg-location
+country-code
+unique-id
+reboot-count
+total-hours
+intl
+syncInit
+sigTs
+result
+hmac
+ApStkUpdStatus
+imc_message_echo
+pulse
+musicSync
+preview
+autobrightness
+no effect
+sceneId
+speed
+temp
+dimming
+schdPsetId
+ratio
+fanState
+fanSpeed
+fanMode
+fanRevrs
+fanIndState
+luxTarget
+motionDetected
+opts
+updateOta
+tapTmr
+SC7A22
+IIS2DLPC
+DA262
+none
+i2cTapNone
+tvsyncLastLm
+wizclick
+xcpt
+otaInfo
+bleOtaInfo
+wifiUpdInfo
+region
+utcOffsets
+homeId
+roomFavs
+startupMode
+fadeIn
+fadeOut
+beaconInfo
+wfsconfTs
+ambienceSync
+apStickiness
+matterPilot
+embLuxSnr
+WIZNET
+wiznet12
+WIZMNFwfsTask
+libowtsk
+beacon-tmr
+scnrConfig
+blem_evt_loop
+pairInfo
+method
+=fff?
+Bs?HTTP/1.1 %d
+Content-Type
+Content-Length
+BT_OSI
+E (%lu) %s: %s null
+E (%lu) %s: %s failed to delete timer, err 0x%x
+E (%lu) %s: %s, invalid state %d
+E (%lu) %s: %s failed to start timer, err 0x%x
+g/fs/c
+_S%u
+_L%u
+_V%u
+_T%lu
+_D%u
+Group key expansion
+IGTK key expansion
+proxy-connection
+upgrade
+transfer-encoding
+content-length
+chunked
+keep-alive
+Pairwise key expansion
+bitset::set
+%s: __position (which is %zu) >= _Nb (which is %zu)
+%c%c%d
+matterUpdInfo
+success
+"params":
+offlineComm
+wfsHM
+serLTmr
+btnLTmr
+uart
+SSID: %s
+RSSI: %d
+WiZ WIFI tested 
+WIZNET-inStore
+MyStoreRunsWiZ8888
+orig
+deescalated
+dimDelta
+%s%i%s
+step
+trans
+wiz/accs
+devTotal
+headTotal
+swHead
+wifiMaxTxPower
+minDimLevel
+hasGradient
+nightLightOff
+i2cDrvOpt
+kp18057Ovp
+kp18057Otp
+pilotDelay
+stdbyPin
+noSmartConf
+blockPairModes
+drvCap
+isEyecare
+hasTapSensor
+i2cTapSensor
+chip
+whoami
+freq
+shockWin
+hasDcDimmer
+hasSwWizclick
+hasCxPeripherals
+hasGestureSensor
+hasIr
+hasAdcAdjust
+tempSnr
+inputPins
+threshold
+dutyCorrectionPeriod
+dutyRecoveryPeriod
+maxDutyCorrection
+hasPilotButton
+hasPilotPanel
+embMotSnr
+iface
+range
+extDevices
+pairable
+hasCctTable
+numCctPoints
+maxCctPower
+cctPoints
+hasPowerProfile
+idlePower
+channelPower
+extCtrl
+pilotBtns
+hasTiltSensor
+autoBritType
+hasFanIndicator
+Internal consistency error on provider!
+Internal consistency error on access fabric!
+g/lkgt
+g/fidx
+f/%x/m
+CompressedFabric
+g/gcc
+g/gdc
+g/im/ec
+%(err)
+UNDEFINED
+UDP:%s%s:%d
+UDP:[%s%s]:%d
+TCP:%s%s:%d
+TCP:[%s%s]:%d
+Wi-Fi PAF
+ERROR
+f/%x/ac/1
+g/bt/%x
+g/bt
+O=CSR
+ ,=+<>#;"\
+SII=%lu
+SAI=%lu
+SAT=%u
+T=%d
+ICD=%d
+SAE-PK keys
+SAE KCK and PMK
+SAE Hunting and Pecking
+SAE Hash to Element
+#$%&'
+0123456789
+abcdefghijklmnopqrstuvwxyz
+^_`abcdefghijklmnopqrstuvwxyz
+DELETE
+HEAD
+POST
+CONNECT
+TRACE
+COPY
+MKCOL
+MOVE
+PROPFIND
+PROPPATCH
+UNLOCK
+REBIND
+UNBIND
+REPORT
+MKACTIVITY
+CHECKOUT
+MERGE
+M-SEARCH
+NOTIFY
+UNSUBSCRIBE
+PURGE
+MKCALENDAR
+UNLINK
+Transfer-Encoding
+%s %s
+HTTP/1.1
+%s: %s
+ESP32 HTTP Client/1.0
+http
+https
+User-Agent
+Host
+HTTP_CLIENT
+D (%lu) %s: esp_transport_read returned:%d and errno:%d 
+W (%lu) %s: esp_transport_read returned:%d and errno:%d 
+<%s:%s
+Basic 
+Authorization
+Location
+WWW-Authenticate
+ESP_HTTP_CLIENT_EVENT
+Bdhcps_start(): could not obtain pcb
+dhcps: Illegal subnet mask.
+dhcps: ip address and subnet mask do not match.
+ScstateOrProvinceName
+-----BEGIN CERTIFICATE-----
+-----END CERTIFICATE-----
+The certificate validity has expired
+The certificate has been revoked (is on a CRL)
+The certificate Common Name (CN) does not match with the expected CN
+The certificate is not correctly signed by the trusted CA
+The CRL is not correctly signed by the trusted CA
+The CRL is expired
+Certificate was missing
+Certificate verification was skipped
+Other reason (can be used by verify callback)
+The certificate validity starts in the future
+The CRL is from the future
+Usage does not match the keyUsage extension
+Usage does not match the extendedKeyUsage extension
+Usage does not match the nsCertType extension
+The certificate is signed with an unacceptable hash.
+The certificate is signed with an unacceptable PK alg (eg RSA vs ECDSA).
+The certificate is signed with an unacceptable key (eg bad curve, RSA too short).
+The CRL is signed with an unacceptable hash.
+The CRL is signed with an unacceptable PK alg (eg RSA vs ECDSA).
+The CRL is signed with an unacceptable key (eg bad curve, RSA too short).
+%s%s
+%sUnknown reason (this should not happen)
+sys_evt
+abcdefghijklmnopqrstuvwxyz234567
+OWE Key Generation
+bc1E
+1/?cz&!t
+5mmQ
+vb^~
+I(fQ
+PMK Name
+Init Counter
+SAE Hash to Element u1 P1
+SAE Hash to Element u2 P2
+.local
+IPV6_MULTICAST_HOPS
+B%02X
+Error %s:0x%08lX
+	B^m
+	BZm
+Bg/su/%x
+g/sum
+B_services
+_dns-sd
+_udp
+B224.0.0.251
+FF02::FB
+<%08lX%08lX-%08lX%08lX
+B_tcp
+_matter
+_sub
+_matterd
+_matterc
+local
+_udp
+VP=%d+%d
+VP=%d
+DT=%lu
+DN=%s
+CM=%d
+RI=%s
+PH=%d
+PI=%s
+CP=%d
+Bf/%x/n
+f/%x/i
+f/%x/r
+Bg/gfl
+Bf/%x/k/%x
+f/%x/g/%x/e/%x
+f/%x/gk/%x
+f/%x/g/%x
+f/%x/g
+	Bjl
+B::FFFF:
+bitset::test
+U	B2U	B
+BzU	B U	B
+BzU	B U	B
+B~U	B
+BSessionKeysSessionResumptionKeys
+YE=&
+YE=&
+&=EY
+&=EY
+BMATTER-
+%s%04u
+chip-counters
+chip-config
+chip-factory
+Bopenthread
+tOpHrs
+Blife-count
+BTest Kitchen
+Signify
+TEST_PRODUCT
+TEST_VERSION
+TEST_SN
+Device Layer
+BzU	B
+Bf/%x/o
+.- PrivacyKeyGroupKeyHashGroupKey v1.0ConfirmationKeys
+Bg/sri
+g/s/%s
+f/%x/s/%08lX%08lX
+zU	B 
+BzU	BV*
+BCHIP PAKE V1 Commissioning
+	BjG
+U	BzN
+U	BvN
+BzU	BdO
+NCASE_Sigma2NSigma2NCASE_Sigma3NSigma3NCASE_SigmaS1Sigma1_ResumeNCASE_SigmaS2Sigma2_Resume
+	BV[
+	BR[
+BLwIP
+BInet
+&=EY
+&=EY
+Error 0x%08lX
+Bg/sa/%x/%lx/%lx
+g/a/%x/%lx/%lx
+c|w{
+9JLX
+~=d]
+<relay_adv_buf_pool
+)*+$mesh_core
+list_append
+E (%lu) %s: calloc failed (caller=%p size=%u)
+E (%lu) %s: malloc failed (caller=%p size=%u)
+osi_alarm_cancel
+osi_alarm_free
+osi_alarm_new
+osi_alarm_deinit
+osi_alarm_init
+osi_alarm_delete_mux
+osi_alarm_create_mux
+alarm_cb_handler
+W (%lu) %s: %s, invalid state %d
+alarm_set
+alarm_free
+BT_BTC
+W (%lu) %s: %s Invalid parameters
+W (%lu) %s: %s No memory
+btc_transfer_context
+Bnpl_freertos_mempool_init
+Beventq
+assertion:%s
+line:%d,function:%s
+eventq->q
+npl_freertos_eventq_init
+ble_npl_event_fn_wrapper
+npl_freertos_callout_deinit
+callout->handle
+callout
+npl_freertos_callout_init
+nimble_timer
+npl_freertos_sem_release
+semaphor->handle
+ret == pdPASS
+npl_freertos_sem_pend
+timeout == 0
+npl_freertos_sem_init
+npl_freertos_mutex_release
+mutex->handle
+npl_freertos_mutex_pend
+npl_freertos_mutex_init
+npl_freertos_eventq_remove
+npl_freertos_eventq_put
+npl_freertos_eventq_get
+tmo == 0
+ret == pdPASS || ret == errQUEUE_EMPTY
+npl_freertos_sem_deinit
+npl_freertos_mutex_deinit
+npl_freertos_eventq_deinit
+npl_freertos_event_deinit
+ev->event
+npl_freertos_event_init
+npl_freertos_callout_mem_reset
+npl_freertos_event_reset
+nimble_host
+btSlp
+btLS
+npl funcs init failed
+ble_freertos_ev_pool
+rc == 0
+ble_freertos_evq_pool
+ble_freertos_co_pool
+ble_freertos_sem_pool
+ble_freertos_mutex_pool
+transport_pool_cmd
+transport_pool_evt
+transport_pool_evt_lo
+transport_pool_acl
+msys_1
+msys_2
+ble_hs_hci_ev_pool
+ble_hs_hci_frag
+ble_hs_conn_pool
+ble_l2cap_chan_pool
+ble_l2cap_sig_proc_pool
+ble_att_svr_prep_entry_pool
+ble_gattc_proc_pool
+ble_gap_update
+ble_att_svr_entry_pool
+ble_gatts_clt_cfg_pool
+Bmesh/seq
+mesh/role
+mesh/rpl/%04x
+mesh/rpl
+mesh/net
+mesh/iv
+mesh/hb_pub
+mesh/cfg
+mesh/sig
+mesh/vnd
+mesh/va/%04x
+mesh/vaddr
+mesh/netkey
+mesh/appkey
+Bmesh/p_prov
+mesh/p_netidx
+mesh/p_appidx
+mesh/p_netkey
+mesh/p_appkey
+mesh/p_node
+mesh/%s/%04x/b
+mesh/%s/%04x/s
+mesh/%s/%04x/p
+mesh/nk/%04x
+mesh/ak/%04x
+prsk
+prsn
+prdk
+prck
+smk2
+smk3
+nkik
+nkbk
+******************
+id128
+smk4
+Bvtad
+Bbt_mesh
+E (%lu) %s: %s alarm_cbs exhausted
+E (%lu) %s: %s failed to create timer, err 0x%x
+E (%lu) %s: %s osi_calloc failed.
+BESP-BLE-MESH
+mesh_adv_task
+null
+false
+true
+%1.15g
+%1.17g
+u%04x
+Bf/%x/e/%x/sc/%x
+f/%x/e/%x/sc
+g/scc/e/%x
+U	BT
+Bf/%x/ac/0/%x
+-	B`-	B
+.	Bf-	B
+8.	Bl-	Br-	B
+.	B:.	B
+)	B@&	Bt
+:&	B
+8	B<8	B
+6	B<
+3	B>
+4D	BvC	B
+6D	B|C	B
+2D	B
+<G	B
+>G	B$G	B8D	B
+@G	B*G	B
+BG	B0G	B6G	B
+L	BtK	B
+L	BbK	B*K	B
+L	BnK	BzK	B
+L	BhK	BDG	B
+BfailSafeContext.ArmFailSafe(accessingFabricIndex, System::Clock::Seconds16(commandData.expiryLengthSeconds))
+server->SetRegulatoryConfig(location, countryCode)
+B M	B
+*q	B
+i	BFq	B
+f	B<
+^	B>
+~	B%04u%02u%02u
+x	BF
+U	B"
+Bendpoint_%hX
+%lX:%lX
+min_uu_ep_id
+Failure to validate KeySet data dependencies.
+Received unknown GroupKeySecurityPolicyEnum value
+Received a CacheAndSync GroupKeySecurityPolicyEnum when MCSP not supported
+Not enough space left to add a new KeySet
+Keyset ID not found in KeySetRead
+Attempted to KeySetRemove the identity protection key!
+KeySetRemove failed
+Failed iteration of key set indices!
+<~]	B<i	B
+	BXF	B
+=	B<<	Bhttp_server
+Content-Length: 
+Internal server error
+text/html
+Resource not found
+Parsing error
+<update_byte_1_timer
+@@333333
+@discAcc
+Ga==
+C/device
+/pairing
+/complete
+curr_version
+max_version
+scan
+rssi
+Access-Control-Allow-Origin
+GET, POST, OPTIONS
+Access-Control-Allow-Methods
+DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range
+Access-Control-Allow-Headers
+Content-Length,Content-Range
+Access-Control-Expose-Headers
+1728000
+Access-Control-Max-Age
+application/json
+offsets
+enc_ssid
+enc_pwd
+token
+off_comm
+firmwares
+wizlight.bin
+timeout
+secure
+phoneIp
+apBssid
+reboot
+updateStatus
+transTime
+devices
+devType
+lightType
+numHeads
+headRange
+pwmFreq
+pwmRes
+pwmRange
+pwmRanges
+nowc
+cctRange
+renderFactor
+hasAdjMinDim
+drvIface
+curr
+i2cDrv
+extoutput
+rzDrv
+dimCurve
+ratioHwType
+ledOnWhenOff
+exLmList
+wcFav
+operation
+bssid
+channel
+cntChannelChg
+cntDiscon
+cntSuccess
+cntFailure
+connectTime
+supportIp6
+supportWifi6
+firstIpTime
+errorMap
+WiFi
+freeMem
+totalMem
+minHeap
+timeUTC
+timeMCU
+ecosystem
+totalTimeOn
+cntUpdateAttempts
+peripheral
+RESET SUCCESFULLY
+reset
+devMac
+resetCert
+moduleName
+flash
+WIZPING
+fwVersion
+matterVersion
+productId
+deleteAll
+delete
+intent
+ignore
+ifOff
+ifOn
+next
+dura
+mins
+days
+scene
+schdIds
+sensorMac
+frame
+companyId
+serp_task
+P9867A
+qwwww
+SM16714P
+@SM15155E
+WS2811
+BP5758D
+BBP5768D
+BBP5738D
+BKP18057
+BLDI2CP
+A_i2c_accessory_task
+setModelConfig
+wizc1
+wizc2
+setSystemConfig
+roomId
+groupId
+dhcpName
+systemConfigTs
+setWiZClick
+setSensor
+delay
+motion
+noMotion
+setFavs
+favs
+favConfigTs
+setSecurity
+setUserConfig
+dftDim
+opMode
+poRhy
+minDimming
+tapSensor
+userConfigTs
+default
+lastStatus
+<syncConfig
+wizc
+syncAcc
+BsetAcc
+setPilot
+Bvendor
+blem
+ACC disc
+delay_timer
+WiZ%02x%02x%02x
+BTC_TASK
+`c@ 
+data_update_timer
+channel_monitor_timer
+mqtt
+totalOnTime
+syncStatus
+1b7852b855
+key-der
+Bu32
+string
+base64
+BmatterPair
+https://certificate.eu.api.iotplatform.signify.com/device-management/bootstrap/v1/devices/%s/configuration
+wiz:matter:%d
+IOT_OTA
+6*=U
+#<extFavs
+,=+<>;"\
+wiz_ls
+wiz_apb
+wfsens
+?wfsChk
+ESP20
+ESP21
+ESP22
+ESP23
+ESP24
+ESP25
+ESP26
+_POS
+DIMSWITCHS
+DIMTRIACS
+FANDIMS
+FANS
+UDIM
+SENSOR
+SOCKET
+DIM1_10V
+DIM10V
+DIMTRIAC
+DIMSWITCH
+ACCTWRGB
+ORGB
+%ld.%ld.%ld.%ld
+%s/%u
+%s%u
+%s%u/%u
+wiz/lux_sensor
+embMotionSnr
+repeatTimeIntv
+snrIndicator
+BdefaultLum
+powerOutage
+beacon
+process
+sensitivity
+wfsRptTimeIntv
+bcstWfsMotEvt
+embOpMode
+dim2WarmPoints
+autoUpd
+wcFavs
+syncBox
+syncBoxPos
+middle
+demoState
+wifiCred
+wiz_
+accUdpPropRate
+rhythmState
+%s_%d
+Bwiz/sensor
+wiz/schd
+Bwiz/rhythm
+NONE
+NONE
+i2cTapNone
+none
+NONE
+none
+none
+none
+none
+none
+none
+<deviceInfo
+driverInfo
+extCctRange
+minDimAdj
+colorCalib
+extDevice
+<dcDimmer
+swWc
+cxPeriph
+gestSensor
+adcAdjust
+pilotButton
+pilotPanel
+tiltSensor
+fanIndicator
+powerSaving
+powerMeter
+eyecare
+gradient
+B-----BEGIN CERTIFICATE-----
+MIIEkjCCA3qgAwIBAgIQCgFBQgAAAVOFc2oLheynCDANBgkqhkiG9w0BAQsFADA/
+MSQwIgYDVQQKExtEaWdpdGFsIFNpZ25hdHVyZSBUcnVzdCBDby4xFzAVBgNVBAMT
+DkRTVCBSb290IENBIFgzMB4XDTE2MDMxNzE2NDA0NloXDTIxMDMxNzE2NDA0Nlow
+SjELMAkGA1UEBhMCVVMxFjAUBgNVBAoTDUxldCdzIEVuY3J5cHQxIzAhBgNVBAMT
+GkxldCdzIEVuY3J5cHQgQXV0aG9yaXR5IFgzMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEAnNMM8FrlLke3cl03g7NoYzDq1zUmGSXhvb418XCSL7e4S0EF
+q6meNQhY7LEqxGiHC6PjdeTm86dicbp5gWAf15Gan/PQeGdxyGkOlZHP/uaZ6WA8
+SMx+yk13EiSdRxta67nsHjcAHJyse6cF6s5K671B5TaYucv9bTyWaN8jKkKQDIZ0
+Z8h/pZq4UmEUEz9l6YKHy9v6Dlb2honzhT+Xhq+w3Brvaw2VFn3EK6BlspkENnWA
+a6xK8xuQSXgvopZPKiAlKQTGdMDQMc2PMTiVFrqoM7hD8bEfwzB/onkxEz0tNvjj
+/PIzark5McWvxI0NHWQWM6r6hCm21AvA2H3DkwIDAQABo4IBfTCCAXkwEgYDVR0T
+AQH/BAgwBgEB/wIBADAOBgNVHQ8BAf8EBAMCAYYwfwYIKwYBBQUHAQEEczBxMDIG
+CCsGAQUFBzABhiZodHRwOi8vaXNyZy50cnVzdGlkLm9jc3AuaWRlbnRydXN0LmNv
+bTA7BggrBgEFBQcwAoYvaHR0cDovL2FwcHMuaWRlbnRydXN0LmNvbS9yb290cy9k
+c3Ryb290Y2F4My5wN2MwHwYDVR0jBBgwFoAUxKexpHsscfrb4UuQdf/EFWCFiRAw
+VAYDVR0gBE0wSzAIBgZngQwBAgEwPwYLKwYBBAGC3xMBAQEwMDAuBggrBgEFBQcC
+ARYiaHR0cDovL2Nwcy5yb290LXgxLmxldHNlbmNyeXB0Lm9yZzA8BgNVHR8ENTAz
+MDGgL6AthitodHRwOi8vY3JsLmlkZW50cnVzdC5jb20vRFNUUk9PVENBWDNDUkwu
+Y3JsMB0GA1UdDgQWBBSoSmpjBH3duubRObemRWXv86jsoTANBgkqhkiG9w0BAQsF
+AAOCAQEA3TPXEfNjWDjdGBX7CVW+dla5cEilaUcne8IkCJLxWh9KEik3JHRRHGJo
+uM2VcGfl96S8TihRzZvoroed6ti6WqEBmtzw3Wodatg+VyOeph4EYpr/1wXKtx8/
+wApIvJSwtmVi4MFU5aMqrSDE6ea73Mj2tcMyo5jMd6jmeWUHK8so/joWUoHOUgwu
+X4Po1QYz+3dszkDqMp4fklxBwXRsW10KXzPMTZ+sOPAveyxindmjkW8lGy+QsRlG
+PfZ+G6Z6h7mjem0Y+iWlkYcV4PIWL1iwBi8saCbGS5jN2p8M+X+Q7UNKEkROb3N6
+KOqkqm57TH2H3eDJAkSnh6/DNFu0Qg==
+-----END CERTIFICATE-----
+%02x%02x%02x%02x%02x%02x_%lu
+accevt
+pirp
+camsens
+wizcam
+:333?
+?sensorReport
+BautoBrightness
+atbrt
+luxTmr
+cnssens
+BWiZ-camera
+BINST_PWR
+Bvector::_M_default_append
+ !"#$%&'()defg
+ !"#$%&'(
+ !"#%&'()defg
+ "#%&'(
+d2d<
+LED_DRV
+vector::_M_realloc_insert
+lrzTimer
+P9867A
+BLDM
+syncPilot
+B104F420
+BeinTmr
+einstein
+tilt
+sessionHash
+BWiZC
+PSOK
+PSER
+BWiZConfig_
+BregLight
+Bbinary-image-esp32-c3:%d.%d.%d
+custom
+actualImageIdentity
+imageIdentity
+{"imageIdentity": "binary-image-esp32-c3:%d.%d.%d"}
+Authentication-Info
+iot ota finish
+botaT
+firmware.wizconnected.cn
+firmware.wiz.world
+mac=%s&fw=%s
+errCode
+evt_flag
+ota_ver
+retry
+read_byte
+autoJoin
+enable
+position
+onSync
+onNoSync
+maxBrightnessRatio
+tvModes
+sender
+music
+syncAreaId
+transition
+middle
+dark
+bright
+luxDeltaThreshold
+bcstLuxEvt
+bcstMotionEvt
+start
+scnrId
+trig
+idle
+action
+actionDur
+self_test
+major_ver
+minor_ver
+build_ver
+iot_platform_ota
+checksum
+MATTER_UPD
+motionStatistics
+beaconMac
+windowSize
+stepSize
+extendedLightModeIds
+elmId
+support
+modifier
+direction
+rand
+steps
+initStep
+spaceSense
+matterUpdate
+scnrStatus
+scnrSrcMac
+syncboxMac
+%s%1x
+period
+retries
+apStkEn
+apStkHssid
+apStkRssiThres
+rhythmMode
+%s%d
+rdIdUidHash
+undefined
+FW %s(%s)-
+0x%x
+%lx(%lx)
+DEV-DBG
+luxSensing
+syncbox
+elms
+syncExtendedLightMode
+schds
+%ld,%ld,
+syncSchd
+schdPsets
+%d,%ld,
+syncSchdPset
+%02x%02x%02x%02x%02x%02x,%d,
+syncOffset
+rtpbm
+wizbm
+hssid
+%04X%04X
+reboots
+resetFan
+pair
+%02lx%02lx%02lx%02lx
+sessionId
+luxLevel
+voltage
+uptime
+batteryLevel
+powerConsumption
+consumption
+temperature
+pwmCorrection
+wifiSensing
+motionState
+motionStat
+statInPercent
+thresholdInPercent
+maxAvg
+minAvg
+statAvg
+delta
+upTime
+heapMem
+payload
+schdPsetIds
+circ
+sType
+wake
+register
+phoneMac
+duration
+dimRange
+stepTime
+stepOff
+pulseCount
+grpAck
+mqttCd
+syncBroadcastPilot
+syncAccEvt
+firstBeat
+devDebug
+syncScnrEvt
+syncTest
+getTest
+BsetDevInfo
+setSchd
+setSchdPset
+setWifi
+applyUpdate
+setCctTable
+setState
+getPilot
+setEffect
+getEffect
+getUserConfig
+getSystemConfig
+registration
+getDevInfo
+getTelemetry
+getFavs
+getSensor
+getLuxSensing
+setLuxSensing
+getAcc
+setAccDisc
+setPairingAssist
+getTime
+getPower
+getModelConfig
+getCctTable
+setExtendedLightMode
+setWifiBeaconing
+getWifiBeaconing
+setWifiProcessing
+getWifiProcessing
+spaceSenseChecking
+getWifiProcessingData
+setTest
+setScenario
+getScenario
+setCommissioning
+camSelfTest
+setSensorConfig
+getSensorConfig
+setPowerProfile
+getPowerProfile
+syncAmbience
+setSyncboxListener
+getIotpOTAStatus
+Error
+Parse error
+Invalid Request
+Method not found
+Invalid params
+Internal error
+Server error
+Security error
+<message
+wifi_upg_task
+UDP_CLIENT
+{"method":"status","params":{"connected":false}}
+srbt
+brwn
+wtdg
+pwon
+sysc
+mcon
+last
+recover
+mqttcT
+%s.%s.%s
+%s.%s-%s.%s
+%s_%lu
+DEV/%s/%s
+OP/%s/%lu/devices/%s
+MQTC
+MQTW
+200 OK
+Connection: close
+nvs_key
+GET /v1/error/mqttpingerror
+?mac=%s&fw=%s HTTP/1.1
+Host: %s
+Connection: close
+Cache-Control: no-cache
+User-Agent: WiZ 
+Accept: */*
+Accept-Encoding: sdch
+Accept-Language: en-US
+http client task
+ntp.wizconnected.cn
+ntp.wiz.world
+beat_sync_offset
+B..WiZ_DEMO..
+RzU.tj0.h68$
+alarm_sync_schd
+atsw03
+atsw04
+Pair WiZ Lamp
+btrp
+10:02:48
+Sep  5 2025
+[Built]: %s %s %s
+wiz/model
+wiz/usr
+wiz/sys
+wiz/cctTable
+wiz/power
+wiz/status
+wiz/scnr
+wiz/elm
+wiz/matter
+wizclick state: %d, fav cnt: %d, pair cnt: %d, soft: %d, force mode: %d
+NOTIF_LED
+POWER_LIMITER
+tiltTmr
+hlw8032_power_task
+power_metering_task
+wiz/embs
+wiz/telemetry
+chip-factory
+1qD3Ae1jdnfo2n
+%02x%02x%02x%02x%02x%02x%02x%02x
+SYNCPILOT
+bdcTmr
+btnTmr
+sp btn task
+dc_dim_in_time
+gesture_timer
+tsTimer
+NET_MANAGER_C
+Demo Mode Task
+UCS312D0
+HEART_BEAT
+Firmware Version: %s, Paired: %d
+MAC address: %s
+Model: %d ,Boot Up Reason: %d , Boot-Loader Version: %d, Matter: %d
+BUnknown
+Unknown reason
+Cache error
+Memory protection fault
+Exception was unhandled.
+Instruction address misaligned
+Instruction access fault
+Illegal instruction
+Breakpoint
+Load address misaligned
+Load access fault
+Store address misaligned
+Store access fault
+Environment call from U-mode
+Environment call from S-mode
+Environment call from M-mode
+Instruction page fault
+Load page fault
+Store page fault
+dbus tried to write cache
+dbus authentication failed
+access to cache while dbus or cache is disabled
+ibus authentication failed
+ibus tried to write cache
+access to cache while ibus or cache is disabled
+Interrupt wdt timeout on CPU0
+<heap_caps_aligned_alloc
+heap_caps_calloc
+heap_caps_realloc
+heap_caps_malloc_prefer
+heap_caps_realloc_default
+heap_caps_malloc_default
+heap_caps_malloc
+used
+free
+	%p %s size: %x (%p)
+tlsf_add_pool: Memory must be aligned by %u bytes.
+tlsf_add_pool: Memory size must be between %u and %u bytes.
+tlsf_create: Memory must be aligned to %u bytes.
+DRAM
+DRAM/RETENTION
+DRAM/RETENTION/STACK
+D/IRAM
+DIRAM/RETENTION
+DIRAM/RETENTION/STACK
+RTCRAM
+READ
+WRITE
+EXEC
+PMS_WORLD_0
+PMS_WORLD_NONE
+PMS_WORLD_1
+PMS_WORLD_2
+PMS_WORLD_ALL
+PMS_WORLD_INVALID
+IDLE
+***ERROR*** A stack overflow in task 
+ has been detected.
+main
+UNKNOWN ERROR
+esp_timer
+WIFI_STA_DEF
+esp_matter_kvs
+chip-config
+wiz_nvs
+endpoint_%X
+chip-counters
+CHIP_KVS
+BESP32
+WIFI_STA_DEF
+BCHIP
+BMW_HTTPS_OTA_EVENT
+bytes=0-%d
+bytes=%d-%d
+bytes=%d-
+QoS rc = %d
+MQTC
+MQTW
+MQTT
+MQIsdp
+mqtt_tls_wrapper
+  ! 
+Worker Task
+wmsEngineStart
+Unable to allocate engine for node %d
+Unable to allocate engine input buffer for node %d
+node memory size %d bytes
+Initializing engine %08x for node %d
+?Node %d: Pending engine request, skipping CSI processing.
+Node %d: CSI format changed from %d to %d.
+Node %d: CSI input block ready while engine processing!!!
+Config: engine not found for node %d  count %d
+Config: previous configuration not completed on node %d, skipping
+Config: engine type mismatch for node %d (%d != %d)
+Config: unchanged on node %d.
+Config: invalid motion configuration on node %d.
+Config: Motion node [%d]: turn_on_threshold %d, turn_off_threshold %d, holding_time_sec %d, window_size %d and step_size %d
+Config: invalid securityconfiguration on node %d.
+Configuration request in process for node %d
+Start: Engine exists for node %d
+%s: Engine started for node %d
+Stop: engine not found for node %d
+BNull engine
+The engine on node %d is not a running engine
+Engine on node %d stopped, deleting
+wmsEngineWork: null status pointer
+Configuration request completed for node %d
+wmsEngineWork: unknown engine detection type on node %d
+@CSI Intermediate buffer unallocated.
+Cannot reallocate intermediate buffer.
+Intermediate buffers reallocated to size %d.
+?All intermediate buffer released
+L>Security set to sensitivity %d
+Rom table is disabled
+Config struct mismatch: magic=%08x, ver=%08x
+Hardware Target Code Invalid: 0x%x
+Invalid scan backoff upperlimitmax: 0x%x
+Default Tx Power Invalid: 0x%x
+Controller lib error, need rom lib
+RWIP Heap alloc: ENV [%p %d], MSG [%p %d], NORET [%p %d], DB [%p %d]
+Uart ENV [%p], VHCI ENV [%p]
+btController
+Coex register schm btdm cb faild
+BD_ADDR: %02X:%02X:%02X:%02X:%02X:%02X
+EM_ET_OFFSET: 0x%08x, EM_ET_END: 0x%08x
+EM_FT_OFFSET: 0x%08x, EM_FT_END: 0x%08x
+EM_RF_SW_SPI_OFFSET: 0x%08x, EM_RF_SW_SPI_END: 0x%08x
+EM_RF_HW_SPI_OFFSET: 0x%08x, EM_RF_HW_SPI_END: 0x%08x
+EM_ENC_OFFSET: 0x%08x, EM_ENC_END: 0x%08x
+EM_BLE_OFFSET: 0x%08x, EM_BLE_END: 0x%08x
+EM_BLE_CS_OFFSET: 0x%08x, EM_BLE_CS_END: 0x%08x
+EM_BLE_WL_OFFSET: 0x%08x, EM_BLE_WL_END: 0x%08x
+EM_BLE_RAL_OFFSET: 0x%08x, EM_BLE_RAL_END: 0x%08x
+EM_BLE_RX_DESC_OFFSET: 0x%08x, EM_BLE_RX_DESC_END: 0x%08x
+EM_BLE_TX_DESC_OFFSET: 0x%08x, EM_BLE_TX_DESC_END: 0x%08x
+EM_BLE_LLCPTXBUF_OFFSET: 0x%08x, EM_BLE_LLCPTXBUF_END: 0x%08x
+EM_BLE_ADVEXTHDRTXBUF_OFFSET: 0x%08x, EM_BLE_ADVEXTHDRTXBUF_END: 0x%08x
+EM_BLE_ADVDATATXBUF_OFFSET: 0x%08x, EM_BLE_ADVDATATXBUF_END: 0x%08x
+EM_BLE_AUXCONNECTREQTXBUF_OFFSET: 0x%08x, EM_BLE_AUXCONNECTREQTXBUF_END: 0x%08x
+EM_BLE_DATARXBUF_OFFSET: 0x%08x, EM_BLE_DATARXBUF_END: 0x%08x
+EM_BLE_ACLTXBUF_OFFSET: 0x%08x, EM_BLE_ACLTXBUF_END: 0x%08x
+H4TL EIF not registered
+arch_main.c
+ble_util_buf.c
+phase match cali!!
+phase match cali failed!
+hi%d, lo%d
+clear <reg_force_usecswinsz> for phasematchp reg
+set rfrxtmda2 %d, set rfrxtmda3 %d
+SCHM PROC %02x %02x, %p
+co_list.c
+MAGIC %08x VERSION %08x
+H4TL EIF Magic mismatch: %08x
+H4TL EIF Version mismatch: %08x
+EMI: alloc must after em mapping [%d] disable
+EMI: alloc must after em mapping [%d] free
+EM_BASE_REG_LUT[%d], %02d, %04x
+emi.c
+EM ET %04x, %p, len %d
+EM CS %04x, %p, len %d
+EM WL/RAL %04x, %p, len %d
+EM RXDESC %04x, %p, len %d
+EM TXDESC %04x, %p, len %d
+EM LLCP TX BUFFER %04x, %p, len %d
+EM ADV EXT HDR TX BUFFER %04x, %p, len %d
+EM ADV DATA TX BUFFER[%d] %04x, NULL, len %d
+EM AUX CONNECT REQ TX BUFFER %04x, %p, len %d
+EM DATA RX BUFFER[%d] %04x, %p, len %d
+EM ACL TX STATIC BUFFER[%d] %04x, %p, len %d
+EM ACL TX DYNAMIC BUFFER[%d] %04x, NULL, len %d
+FINAL EM IDX %d,
+EM_BASE_REG[%d], %04x, %08x
+EMI: em mapping [%d] already disable
+EMI: em mapping [%d] already freed
+Bhci_tl.c
+HCITL: fail to alloc acl %0x, %0x
+HLI Magic mismatch: %08x, %08x
+HLI Version mismatch: %08x, %08x
+intc.c
+ke_event.c
+ke_msg.c
+llc_disconnect.c
+llc_hci.c
+llc_llcp.c
+BBHHHHH
+B5BH
+B8BH8B4B
+B8B4B
+BBHH
+BHHHHBHHHHHHH
+BHHHH
+BBBH
+llc.c
+llc_phy_upd.c
+Bllc_ver_exch.c
+BTX PTI [HDC ADV] [EN%d] [%d] 
+TX PTI [LDC ADV] [EN%d] [%d] 
+adv_adv_free
+lld_adv.c
+TX PTI [LDC SCANRSP] [EN%d] [%d] 
+adv_rsp_free
+TX PTI [LDC] [EN%d] [%d] 
+PTI CNTL CS[%d] REG[%08x] TYPE[EXT ADV] RXEN[%d] RX[%d], IFSEN[%d] IFS[%d] PRTEN[%d] TIME[%d] DIFS[%d] DRX[%d] DTX[%d]
+BPTI CNTL CS[%d] REG[%08x] TYPE[CON[%d]] RXEN[%d] RX[%d] IFSEN[%d] IFS[%d] PRTEN[%d] TIME[%d] DIFS[%d] DRX[%d] DTX[%d]
+TX PTI [CON] [EN%d] [%d] 
+lld_con.c
+RXBUF Update OK
+RX MAX LENGTH %d
+lld.c
+RXBUF Update ISR  %04x %04x
+PTI CNTL CS[%d] REG[%08x] TYPE[SCAN[%d]] RXEN[%d] RX[%d] IFSEN[%d] IFS[%d] PRTEN[%d] TIME[%d] DIFS[%d] DRX[%d] DTX[%d]
+TX PTI [ACT_SCAN] [EN%d] [%d] 
+lld_scan.c
+llm_adv.c
+llm_hci.c
+llm_init.c
+llm.c
+llm_scan.c
+LLM Scan dup filt init failed!
+Bllm_task.c
+misc.c
+OSI Magic mismatch: %08x
+OSI Version mismatch: %08x
+rf_txpwr.c
+rwble.c
+rwip_driver.c
+BLE assert %s %d, param %08x %08x
+sch_alarm.c
+sch_arb.c
+sch_plan.c
+BBLE_ERR_%d_%d_%d_%d
+sch_prog.c
+sch_slice.c
+Send Queue Failed
+VHCI: Packet length not supported
+VHCI: Controller is not run
+vhci.c
+%s %d
+Bco_utils.c
+h4tl.c
+<9 B*
+<A B
+<C B:
+<hci_msg.c
+BL6B
+BBL6B
+BBHBB6BHHHB
+BBHHHH
+BBH8B
+BH8BH
+BHHHHH
+BBHBB6B6B6BHHHB
+BB64B
+BB32B
+BBHBB
+BBHBB6BBHB
+BHBBBBnB
+BBBHB
+BBB6B
+BHBHH
+BH3B3BBBB6BBBBBBBB
+BBBnB
+HHBBB6BBB
+B31B
+BHHBB
+HHBB6BBHHHHHH
+HHHHHHH
+BH5B
+16B16B
+B16B
+H8BH16B
+H16B
+B6B16B16B
+BHBB
+HBBBH
+BBBB
+BHHH
+BBB6BHHB
+B6BB
+HBHH
+BHHHL
+BBHBHH
+B64B
+ke_mem.c
+ke_task.c
+ke_timer.c
+chm_upd: %u %u %u
+llc_chmap_upd.c
+Bcon_upd: %u %u %u
+llc_con_upd.c
+llc_dl_upd.c
+llc_feat_exch.c
+PTI CNTL CS[%d] REG[%08x] TYPE[INITIATOR] RXEN[%d] RX[%d] IFSEN[%d] IFS[%d] PRTEN[%d] TIME[%d] DIFS[%d] DRX[%d] DTX[%d]
+TX PTI [Initiator] [EN%d] [%d] 
+lld_init.c
+r_rw_rf_init
+write freq table, offset %04x
+%s initialise RF LC Todd
+CHK: ACT %d, CONN mst %d, intv %d, ce %d, latency %d
+CHK: st %d sleep %d
+SLP2
+UNSLP2
+wifi
+smartconfig
+ESPNOW
+WIFI_EVENT
+<ieee80211_output.c
+ieee80211_hostap.c
+ieee80211_crypto.c
+lrbg
+lrbgn
+ieee80211_phy.c
+wl_chm.c
+Bwifi
+%c (%d) %s:
+BW20
+Unknown
+wl_cnx.c
+active
+passive
+Open Auth
+WPA-PSK
+WPA2-ENT
+WPA2-PSK
+WPA2-CCKM
+WPA3-SAE
+WAPI-PSK
+WAPI-CERT
+WPA3-ENT-192
+WPA2-PSK-FT
+WPA3-OWE
+WEP-40
+WEP-104
+version
+group cipher suite
+pairwise cipher suite count
+pairwise cipher suite
+AKM suite count
+AKM suite
+PMKID count
+PMKID list
+Group Mgmt cipher suite
+ieee80211_input.c
+BESP_%02X%02X%02X
+opmode
+sta.ssid
+sta.authmode
+sta.pswd
+sta.pmk
+sta.chan
+auto.conn
+bssid.set
+sta.bssid
+sta.lis_intval
+sta.phym
+sta.phybw
+sta.apsw
+sta.apinfo
+sta.scan_method
+sta.sort_method
+sta.minrssi
+sta.minauth
+sta.pmf_e
+sta.pmf_r
+sta.btm_e
+sta.rrm_e
+sta.mbo_e
+ap.ssid
+ap.passwd
+ap.pmk
+ap.chan
+ap.authmode
+ap.hidden
+ap.max.conn
+bcn.interval
+ap.phym
+ap.phybw
+ap.sndchan
+ap.pmf_e
+ap.pmf_r
+ap.p_cipher
+lorate
+country
+ap.ftm_r
+sta.ft
+sta.owe
+sta.trans_d
+sta.sae_h2e
+sta.sae_pk_mode
+sta.bss_retry
+sta.owe_data
+sta.he_dcm
+sta.he_dcm_c_tx
+sta.he_dcm_c_rx
+sta.he_mcs9_d
+sta.he_su_b_d
+sta.he_su_b_f_d
+sta.he_mu_b_f_d
+sta.he_cqi_f_d
+ap.sae_h2e
+sta.sae_h2e_id
+ap.pmk_info
+nan.phym
+sta.pwr_reset
+nvs.net80211
+ieee80211_supplicant.c
+wpa_crypto_funcs_init
+ieee80211_ioctl.c
+enabled
+disabled
+bf15c3aca
+ieee80211_timer_connect
+ieee80211_scan_inter_chan
+ieee80211_scan_enter_op_chan
+ieee80211_csa
+ieee80211_probe_send
+ieee80211_beacon
+ieee80211_handshake
+ieee80211_chm_dwell
+ieee80211_send_beacon
+ieee80211_auth
+ieee80211_assoc
+ieee80211_hostap_handle
+ieee80211_sta_try_sa_query
+ieee80211_sta_sa_query_timeout
+ieee80211_sta_retry_assoc
+ieee80211_ap_try_sa_query
+ieee80211_ap_sa_query_timeout
+config is NULL
+net80211 rom version: %s
+WIFI_MESH_EVENT
+ca515c6
+a4fc1ee
+e665359
+06a4a86
+90a27fb
+f308953
+OS adapter function is NULL
+OS adapter function version error! Version %d is expected, but it is %x
+OS adapter function magic error! Magic %d is expected, but it is %x
+resp
+Bunknown
+ieee80211_sta.c
+from beacon
+from user
+<init
+scan
+auth
+assoc
+sleep
+ieee80211_ht.c
+ieee80211_action.c
+ieee80211_scan.c
+6\6\6\6\
+pm.c
+pp.c
+BlmacProcessTxopQComplete
+lmacProcessTxSuccess
+lmacDiscardFrameExchangeSequence
+lmacEndFrameExchangeSequence
+lmacProcessCollision
+lmacProcessTxComplete
+lmacProcessShortRetryFail
+lmacProcessLongRetryFail
+lmacProcessCtsTimeout
+lmacProcessAckTimeout
+lmacProcessTxRtsError
+lmacProcessTxError
+lmacTxFrame
+lmacTxDone
+lmac.c
+rcGetRate
+rcReachRetryLimit
+trc.c
+wDev_ProcessRxSucData
+wDev_AppendRxBlocks
+wdev.c
+pp rom version: %s
+IP_EVENT
+<ETH_DEF
+WIFI_AP_DEF
+espressif
+4@16:34:40
+Jun  4 2024
+d7aa05a
+libbtbb version: %s, %s, %s
+ (CPU 1)
+ (CPU 0)
+ (CPU 0/1)
+Task watchdog got triggered. The following tasks/users did not reset the watchdog in time:
+??A@CBA@CBDEFGHID
+`adc_dma
+i2c_driver
+spi master
+spi_master
+uart_driver
+Tmr Svc
+ETSTimer
+ARIA-256-CCM*-NO-TAG
+ARIA-192-CCM*-NO-TAG
+ARIA-128-CCM*-NO-TAG
+ARIA-256-CCM
+ARIA-192-CCM
+ARIA-128-CCM
+ARIA-256-GCM
+ARIA-192-GCM
+ARIA-128-GCM
+ARIA-256-CTR
+ARIA-192-CTR
+ARIA-128-CTR
+ARIA-256-CFB128
+ARIA-192-CFB128
+ARIA-128-CFB128
+ARIA-256-CBC
+ARIA-192-CBC
+ARIA-128-CBC
+ARIA-256-ECB
+ARIA-192-ECB
+ARIA-128-ECB
+AES-256-CCM*-NO-TAG
+AES-192-CCM*-NO-TAG
+AES-128-CCM*-NO-TAG
+AES-192-CCM
+AES-256-GCM
+AES-192-GCM
+AES-128-GCM
+AES-256-XTS
+AES-128-XTS
+AES-256-CTR
+AES-192-CTR
+AES-128-CTR
+AES-256-OFB
+AES-192-OFB
+AES-128-OFB
+AES-256-CFB128
+AES-192-CFB128
+AES-128-CFB128
+AES-256-CBC
+AES-192-CBC
+AES-128-CBC
+AES-256-ECB
+AES-192-ECB
+AES-128-ECB
+<pd@
+<pc?
+<pb>
++	6h
+*	Jh
+(	^h
+B000000000000000000000000000000000000000000000001
+FFFFFFFFFFFFFFFFFFFFFFFE26F2FC170F69466A74DEFD8C
+5EA6F389A38B8BC81E767753B15AA5569E1782E30ABE7D25
+400000000000000000000000000000000000000000000000
+7FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+555555555555555555555555555555555555555555555555
+secp521r1
+secp384r1
+secp256r1
+MV'D
+6v$2
+mGZoE
+]><xJ>@
+r_nT({
+H9yd
+k/y	sg
+F.0a
+q x7y
+9dI1
+7CJ"
+ogh+M
+Bqs!
+C'Gn
+4}hd
+UD6+
+5TY[
+vN*P
+3D4_
+\e&a
+9&pS2
+h$wz
+1SzF
+Q[Dk
++L5:/
+jdjs
+Z.tG
+0f4&
+/AHK
+Q>W]
+w/dE
+r	Ay
+`}F8
+AjrK
+	y}	
+XI5	
+s,q/i!
+(x.u42iW
+p<5a
+,f>'
+xj)9
+=Mk`
+p<5a
+,f>'
+xj)9
+=Mk`
+No+{
+ADNe>m
+t#MV
+s+I~
+*Rh\}L
+w!4(\
+0UtxH'4
+q>nfu
+!hq?B*R
+uvS	
+w?^!
+#H#c
+SGrD
+m[)0A
+B!APDMd1
+ZG,|X
+8TMQ
+$C.7T
+"f?]-
+aVbg
+QOV0K=$
+Y.u|
+%-o%
+P`Su
+jwA\
+#U+-\
+%5-tQ
+qg]I
+cy/j
+B>rd
+#GZz
+(#Xg
+d~~M
+3o(J]
+41{zZ]}-
+(mO1
+3bzV
+=cTEo
+;I~u
+n~U!
+]o,&
+vr8^T:l)U
+U8*T
+]o,&
+vr8^T:l)U
+U8*T
+$OLya
+rXC'ei[f
+7&6*
+RL5'1D
+Ge^Y"
+`K7}
+*8fR
+3<XU4#
+Rz4v
+@$4yEW
+j]R5
+TL%O
+^1kW3
+kQ%c
+^1kW3
+%c.%u
+pbeWithSHAAnd3-KeyTripleDES-CBC
+PBE with SHA1 and 3-Key 3DES
+pbeWithSHAAnd2-KeyTripleDES-CBC
+PBE with SHA1 and 2-Key 3DES
+hmacSHA1
+HMAC-SHA-1
+hmacSHA224
+HMAC-SHA-224
+hmacSHA256
+HMAC-SHA-256
+hmacSHA384
+HMAC-SHA-384
+hmacSHA512
+HMAC-SHA-512
+id-md5
+id-sha1
+id-sha224
+id-sha256
+id-sha384
+id-sha512
+desCBC
+des-ede3-cbc
+DES-EDE3-CBC
+aes128-cbc
+AES128-CBC
+aes192-cbc
+AES192-CBC
+aes256-cbc
+AES256-CBC
+rsaEncryption
+id-ecPublicKey
+Generic EC key
+id-ecDH
+EC key for ECDH
+md5WithRSAEncryption
+RSA with MD5
+sha-1WithRSAEncryption
+RSA with SHA1
+sha224WithRSAEncryption
+RSA with SHA-224
+sha256WithRSAEncryption
+RSA with SHA-256
+sha384WithRSAEncryption
+RSA with SHA-384
+sha512WithRSAEncryption
+RSA with SHA-512
+ecdsa-with-SHA1
+ECDSA with SHA1
+ecdsa-with-SHA224
+ECDSA with SHA224
+ecdsa-with-SHA256
+ECDSA with SHA256
+ecdsa-with-SHA384
+ECDSA with SHA384
+ecdsa-with-SHA512
+ECDSA with SHA512
+RSASSA-PSS
+anyPolicy
+Any Policy
+id-kp-serverAuth
+TLS Web Server Authentication
+id-kp-clientAuth
+TLS Web Client Authentication
+id-kp-codeSigning
+Code Signing
+id-kp-emailProtection
+E-mail Protection
+id-kp-timeStamping
+Time Stamping
+id-kp-OCSPSigning
+OCSP Signing
+id-kp-wisun-fan-device
+Wi-SUN Alliance Field Area Network (FAN)
+id-ce-basicConstraints
+Basic Constraints
+id-ce-keyUsage
+id-ce-extKeyUsage
+Extended Key Usage
+id-ce-subjectAltName
+Subject Alt Name
+id-netscape-certtype
+Netscape Certificate Type
+id-ce-certificatePolicies
+Certificate Policies
+id-ce-subjectKeyIdentifier
+Subject Key Identifier
+id-ce-authorityKeyIdentifier
+Authority Key Identifier
+id-at-commonName
+Common Name
+id-at-countryName
+Country
+id-at-locality
+Locality
+id-at-state
+id-at-organizationName
+Organization
+id-at-organizationalUnitName
+Org Unit
+emailAddress
+E-mail address
+id-at-serialNumber
+Serial number
+id-at-postalAddress
+Postal address
+id-at-postalCode
+Postal code
+id-at-surName
+Surname
+id-at-givenName
+Given name
+id-at-initials
+Initials
+id-at-generationQualifier
+Generation qualifier
+id-at-title
+Title
+id-at-dnQualifier
+Distinguished Name qualifier
+id-at-pseudonym
+Pseudonym
+User Id
+id-domainComponent
+Domain component
+id-at-uniqueIdentifier
+Unique Identifier
+rsa.N
+rsa.E
+eckey.Q
+RSA-alt
+ECDSA
+EC_DH
+-----END RSA PRIVATE KEY-----
+-----BEGIN RSA PRIVATE KEY-----
+-----END EC PRIVATE KEY-----
+-----BEGIN EC PRIVATE KEY-----
+-----END PRIVATE KEY-----
+-----BEGIN PRIVATE KEY-----
+-----END ENCRYPTED PRIVATE KEY-----
+-----BEGIN ENCRYPTED PRIVATE KEY-----
+-----END RSA PUBLIC KEY-----
+-----BEGIN RSA PUBLIC KEY-----
+-----END PUBLIC KEY-----
+-----BEGIN PUBLIC KEY-----
+%)+/5;=CGIOSYaegkmq
+D7q/;M
++Yo,
+&\8!
+* qW
+LwH'
+L*~e
+|6*)
+g&3g
+Gaes_sleep
+aes_cpu
+mpi_sleep
+mpi_cpu
+!xP9
+r	b<>~^
+;qDF+
+|pZ}
+`R	j
+lpHP
+jF<M
+16!XH
+[3}ZR
+c|w{
+9JLX
+~=d]
+Proc-Type: 4,ENCRYPTED
+DEK-Info: AES-
+DEK-Info: AES-128-CBC,
+DEK-Info: AES-192-CBC,
+DEK-Info: AES-256-CBC,
+&091
+Amazon1
+Amazon Root CA 10
+Pt}n
+0-}-tp5
+q\^i
+L>;$&
+&091
+Amazon1
+Amazon Root CA 10
+Pt}n
+0-}-tp5
+q\^i
+L>;$&
+&091
+Amazon1
+Amazon Root CA 20
+dtb,=
+j6QF'a[
+U}|%
+!dz _ld
+liR6
+n~o?
+&091
+Amazon1
+Amazon Root CA 20
+dtb,=
+j6QF'a[
+U}|%
+!dz _ld
+liR6
+n~o?
+[091
+Amazon1
+Amazon Root CA 30Y0
+k9|3
+hbEW}DX
+[091
+Amazon1
+Amazon Root CA 30Y0
+k9|3
+hbEW}DX
+x091
+Amazon1
+Amazon Root CA 40v0
+{FKc
+x091
+Amazon1
+Amazon Root CA 40v0
+{FKc
+&0?1$0"
+Digital Signature Trust Co.1
+DST Root CA X30
+3vI*
+8U9C
+x0F1
+GlobalSign nv-sa1
+GlobalSign Root E460v0
+Rwu4
+&0F1
+GlobalSign nv-sa1
+GlobalSign Root R460
+,zc`@
+E3k'
+FOMx\
+Q&# 
+ w>{
+rsCW}
+mt]B
+M@~$
+_)c1Yq
+lyTvl
+&0G1
+US1"0 
+Google Trust Services LLC1
+GTS Root R10
+d)%#
+2%N*
+Wex'
+lH<@
+&0G1
+US1"0 
+Google Trust Services LLC1
+GTS Root R20
+QK<?
+3q2F
+r1g+
+DmY[]
+%iSU'\
+x0G1
+US1"0 
+Google Trust Services LLC1
+GTS Root R30v0
+&Qro
+AUn+
+x0G1
+US1"0 
+Google Trust Services LLC1
+GTS Root R40v0
+0{KI
+&0J1
+	IdenTrust1'0%
+IdenTrust Commercial Root CA 10
+)KIx<
+g5ns
+3d+c
+eky3
+&0L1 0
+GlobalSign Root CA - R31
+GlobalSign1
+GlobalSign0
+8&`u
+&0L1 0
+GlobalSign Root CA - R61
+GlobalSign1
+GlobalSign0
+PmBf/M
+y(MR
+rVn.
+6Iw0
+af	j
+'YLv9[
+,zXO
+BEyn
+c<(L
+&0M1
+	IdenTrust1*0(
+!IdenTrust Public Sector Root CA 10
+;zJ,1*
+1(WXZ
+39"9
+omHHa
+5*f/
+GT).
+&0M1
+DigiCert, Inc.1%0#
+DigiCert TLS RSA4096 Root G50
+D[Lo0
+OjMw
+{?]-
+/y0%
+HvV:C
+x0N1
+DigiCert, Inc.1&0$
+DigiCert TLS ECC P384 Root G50v0
+w5O;
+{kX 
+&0O1
+US1)0'
+ Internet Security Research Group1
+ISRG Root X10
+qiJffl
+\4ylv
+	dwnG7
+A)>Y>
+00\H
+&0O1
+US1)0'
+ Internet Security Research Group1
+ISRG Root X10
+qiJffl
+\4ylv
+	dwnG7
+A)>Y>
+00\H
+x0O1
+US1)0'
+ Internet Security Research Group1
+ISRG Root X20v0
+x0O1
+US1)0'
+ Internet Security Research Group1
+ISRG Root X20v0
+[0P1$0"
+GlobalSign ECC Root CA - R41
+GlobalSign1
+GlobalSign0Y0
+x0P1$0"
+GlobalSign ECC Root CA - R51
+GlobalSign1
+GlobalSign0v0
+&0W1
+GlobalSign nv-sa1
+Root CA1
+GlobalSign Root CA0
+:V98o
+i[*M
+&0Z1
+	Baltimore1
+CyberTrust1"0 
+Baltimore CyberTrust Root0
+hDBH
+96ru
+&0a1
+DigiCert Inc1
+www.digicert.com1 0
+DigiCert Global Root CA0
+hn\#2K
+JL}>
+O_lv^
+&0a1
+DigiCert Inc1
+www.digicert.com1 0
+DigiCert Global Root G20
+^	$D
+x0a1
+DigiCert Inc1
+www.digicert.com1 0
+DigiCert Global Root G30v0
+a[QF~
+?Am;
+&0b1
+DigiCert Inc1
+www.digicert.com1!0
+DigiCert Trusted Root G40
+]J<0"0i3
+t;mq
+u]xf
+v=Y]Bv
+p,A`
+RQGt
+|Lu?c
+ Qko
+$0c1
+US1!0
+The Go Daddy Group, Inc.110/
+(Go Daddy Class 2 Certification Authority0
+ k/j+
+>b(_
+&0e1
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+ 9(X`
+yS\1
+&0e1
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root G20
+(/R?6rI
+n"U1e
+	tpUi
+rZVq;?
+x0e1
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root G30v0
+bR_f~
+$0h1
+US1%0#
+Starfield Technologies, Inc.1200
+)Starfield Class 2 Certification Authority0
+qQ<0._
+3n^J]
+&0l1
+DigiCert Inc1
+www.digicert.com1+0)
+"DigiCert High Assurance EV Root CA0
+Mr	=
+:8P[w1
+AA"Nea
+Greater Manchester1
+Salford1
+COMODO CA Limited1'0%
+COMODO Certification Authority0
+Bi<0
+r0jf
+$9jG
+Arizona1
+Scottsdale1
+GoDaddy.com, Inc.110/
+(Go Daddy Root Certificate Authority - G20
+O/Y0"
+;F|2
+biQ%
+bC%4
+;p*?n
+I1\iF
+Greater Manchester1
+Salford1
+COMODO CA Limited1+0)
+"COMODO ECC Certification Authority0v0
+G{/u
+n?l//	Y[
+Greater Manchester1
+Salford1
+COMODO CA Limited1+0)
+"COMODO RSA Certification Authority0
+xH0E
+HCgNr*
+	FNm>
+|3WA<
+PjUF
+3:.\
+1\:jG
+New Jersey1
+Jersey City1
+The USERTRUST Network1.0,
+%USERTrust ECC Certification Authority0v0
+New Jersey1
+Jersey City1
+The USERTRUST Network1.0,
+%USERTrust ECC Certification Authority0v0
+New Jersey1
+Jersey City1
+The USERTRUST Network1.0,
+%USERTrust RSA Certification Authority0
+ M	-d	
+~;hf
+%&k3m
+]:l5\
+5Ut	I
+XB.C
+&FJP
+New Jersey1
+Jersey City1
+The USERTRUST Network1.0,
+%USERTrust RSA Certification Authority0
+ M	-d	
+~;hf
+%&k3m
+]:l5\
+5Ut	I
+XB.C
+&FJP
+Arizona1
+Scottsdale1%0#
+Starfield Technologies, Inc.1200
+)Starfield Root Certificate Authority - G20
+Iw2)V
+mSLb
+c[	v
+Arizona1
+Scottsdale1%0#
+Starfield Technologies, Inc.1;09
+2Starfield Services Root Certificate Authority - G20
+kv8c
+.j;X
+I|fN
+Arizona1
+Scottsdale1%0#
+Starfield Technologies, Inc.1;09
+2Starfield Services Root Certificate Authority - G20
+kv8c
+.j;X
+I|fN
+misc
+6655
+rtos0
+Calculated secure boot hash
+Calculated hash
+Expected hash
+cal_version
+cal_mac
+cal_data
+PPPLLHLHHDJFFB
+phy-track-pll-timer
+yA^y
+client finished
+server finished
+extended master secret
+TLS-ECDHE-ECDSA-WITH-AES-128-CBC-SHA
+TLS-ECDHE-ECDSA-WITH-AES-256-CBC-SHA
+TLS-ECDHE-ECDSA-WITH-AES-128-CBC-SHA256
+TLS-ECDHE-ECDSA-WITH-AES-128-GCM-SHA256
+TLS-ECDHE-ECDSA-WITH-AES-256-CBC-SHA384
+TLS-ECDHE-ECDSA-WITH-AES-256-GCM-SHA384
+TLS-ECDHE-ECDSA-WITH-AES-256-CCM
+TLS-ECDHE-ECDSA-WITH-AES-256-CCM-8
+TLS-ECDHE-ECDSA-WITH-AES-128-CCM
+TLS-ECDHE-ECDSA-WITH-AES-128-CCM-8
+TLS-ECDHE-RSA-WITH-AES-128-CBC-SHA
+TLS-ECDHE-RSA-WITH-AES-256-CBC-SHA
+TLS-ECDHE-RSA-WITH-AES-128-CBC-SHA256
+TLS-ECDHE-RSA-WITH-AES-128-GCM-SHA256
+TLS-ECDHE-RSA-WITH-AES-256-CBC-SHA384
+TLS-ECDHE-RSA-WITH-AES-256-GCM-SHA384
+TLS-RSA-WITH-AES-256-GCM-SHA384
+TLS-RSA-WITH-AES-128-GCM-SHA256
+TLS-RSA-WITH-AES-128-CBC-SHA256
+TLS-RSA-WITH-AES-256-CBC-SHA256
+TLS-RSA-WITH-AES-128-CBC-SHA
+TLS-RSA-WITH-AES-256-CBC-SHA
+TLS-RSA-WITH-AES-256-CCM
+TLS-RSA-WITH-AES-256-CCM-8
+TLS-RSA-WITH-AES-128-CCM
+TLS-RSA-WITH-AES-128-CCM-8
+TLS-ECDH-ECDSA-WITH-AES-128-CBC-SHA
+TLS-ECDH-ECDSA-WITH-AES-256-CBC-SHA
+TLS-ECDH-ECDSA-WITH-AES-128-CBC-SHA256
+TLS-ECDH-ECDSA-WITH-AES-128-GCM-SHA256
+TLS-ECDH-ECDSA-WITH-AES-256-CBC-SHA384
+TLS-ECDH-ECDSA-WITH-AES-256-GCM-SHA384
+TLS-RSA-WITH-ARIA-256-GCM-SHA384
+TLS-RSA-WITH-ARIA-256-CBC-SHA384
+TLS-RSA-WITH-ARIA-128-GCM-SHA256
+TLS-RSA-WITH-ARIA-128-CBC-SHA256
+TLS-ECDHE-RSA-WITH-ARIA-256-GCM-SHA384
+TLS-ECDHE-RSA-WITH-ARIA-256-CBC-SHA384
+TLS-ECDHE-RSA-WITH-ARIA-128-GCM-SHA256
+TLS-ECDHE-RSA-WITH-ARIA-128-CBC-SHA256
+TLS-ECDHE-ECDSA-WITH-ARIA-256-GCM-SHA384
+TLS-ECDHE-ECDSA-WITH-ARIA-256-CBC-SHA384
+TLS-ECDHE-ECDSA-WITH-ARIA-128-GCM-SHA256
+TLS-ECDHE-ECDSA-WITH-ARIA-128-CBC-SHA256
+TLS-ECDH-ECDSA-WITH-ARIA-256-GCM-SHA384
+TLS-ECDH-ECDSA-WITH-ARIA-256-CBC-SHA384
+TLS-ECDH-ECDSA-WITH-ARIA-128-GCM-SHA256
+TLS-ECDH-ECDSA-WITH-ARIA-128-CBC-SHA256
+ESPNOW
+E (%d) %s: esp now create mutex fail!
+I (%d) %s: esp now already init!
+E (%d) %s: esp now not init!
+E (%d) %s: Malloc peer fail
+E (%d) %s: Peer is full
+E (%d) %s: Do not support encryption for multicast address
+E (%d) %s: Peer channel is invalid
+E (%d) %s: Peer interface is invalid
+W (%d) %s: Peer exists. Please call API esp_now_mod_peer()!
+E (%d) %s: malloc peer fail
+E (%d) %s: set lmk fail
+E (%d) %s: Init aes encryption fail!
+manatick.c
+E (%d) %s: %s %d
+I (%d) %s: espnow [version: %d.0] deinit
+E (%d) %s: Peer address is NULL
+E (%d) %s: hw key full
+E (%d) %s: Peer addr is null
+E (%d) %s: Peer address or peer is NULL
+E (%d) %s: Register send call back fail!
+I (%d) %s: espnow [version: %d.0] init
+E (%d) %s: Peer is NULL
+E (%d) %s: Encrypt peer is full
+E (%d) %s: malloc key fail
+E (%d) %s: Recv call back is NULL
+E (%d) %s: Invalid argument!
+E (%d) %s: Peer channel is not equal to the home channel, send fail!
+I (%d) %s: espnow send cb eb is null
+I (%d) %s: espnow send cb eb desc is null
+__gnu_cxx::__concurrence_lock_error
+__gnu_cxx::__concurrence_unlock_error
+St9exception
+<N9__gnu_cxx24__concurrence_lock_errorE
+<N9__gnu_cxx26__concurrence_unlock_errorE
+++CCUNG
+St9bad_alloc
+BSt20bad_array_new_length
+<St11logic_error
+<St12length_error
+<St12out_of_range
+<bad_function_call
+St17bad_function_call
+Bstd::bad_alloc
+Bstd::bad_array_new_length
+Bbasic_string::_S_create
+basic_string::_S_construct null not valid
+?UUUUUU
+NEJ(~
+33333
+ri7f>
+f?>UUUUU
+v$K{
+?n L
+UUUUU
+?/lj,D
+         (((((                  
+AAAAAA
+BBBBBB
+#-0+ 
+efgEFG
+0123456789ABCDEF
+0123456789abcdef
+Be%ld
+inity
+[%Co
+Infinity
+REENT malloc succeeded
+/builds/idf/crosstool-NG/.build/riscv32-esp-elf/src/newlib/newlib/libc/stdlib/dtoa.c
+Balloc succeeded
+aCoc
+@/builds/idf/crosstool-NG/.build/riscv32-esp-elf/src/newlib/newlib/libc/stdlib/gdtoa-gethex.c
+POSIX
+ASCII
+ASCII
+/builds/idf/crosstool-NG/.build/riscv32-esp-elf/src/newlib/newlib/libc/stdlib/mprec.c
+vH7B
+W4vC
+[%Co
+O8M2
+A-Fa-f8901234567]
+zPLR
+none
+1.35.0
+1.35.0
+ 8@T
+nimble
+RIAP_ELB_ZIW
+RIAP_ELB_ZIW
+RIAP_ELB_ZIW
+RIAP_ELB_ZIW
+ATO_ELB_ZIW
+ATO_ELB_ZIW
+ATO_ELB_ZIW
+ATO_ELB_ZIW
+OMED_TS_ZIW
+OMED_TS_ZIW
+OMED_TS_ZIW
+P8@Be
+BNC8@F
+ 8@,]
+BJC8@
+<<<<P
+llcp prog: %u %u %u %u %u
+llcp check: %u %u %u %u %u
+IRQ FIFO OVERFLOW
+IRQ FIFO ALMOST FULL,cnt:%u,rem:%u
+DIAG0~1:%08x,%08x
+BB DIAG0~5:%08x,%08x,%08x,%08x,%08x,%08x
+EM BASE ERR:%02x
+FSMERR:%08x
+nb_prog:%x
+et:%d,st:%x
+"8@,
+$8@0$8@
+$8@L$8@\
+-8@D-8@:-8@
+2.8@
+.U8@DU8@PU8@vU8@
+8@`Y8@zY8@
+Y8@8
+8@HZ8@
+Y8@h
+X8@z
+8@jZ8@dV8@\V8@
+abort() was called at PC 0x
+ on core 
+<cached disabled>
+assert failed: 
+%d,%d,%d,%d,%d,%d
+error: pll_cal exceeds 2ms!!!
+index: %d value: 0x%x 0x%x 0x%x %d %d %d %d
+max_gain: %d
+temp=%d,%d,delta=%d
+cal:temp=%d,%d
+correct_power=%d,temp=%d %d
+ulp:set=%d,init=%d
+%d, atten=%d, pwr=%d, %d, %d
+i=%02d  acc=%03d  tgt=%03d  err=%03d  ser=%03d att=%03d %d
+%d, %d; 
+reg_i=%d, indata=%d
+RRRR
+o_O?/
+o_O?/
+%d,0x%x,%d, %d, power=%d, %d
+%d,0x%x,0x%x,%d, %d, power=%d, %d
+c@16:34:25
+Jun  4 2024
+01f2a49
+%d,%s,%s,%s
+PG?82,
+%d_%d_%d
+ (%d,%d) 
+%d,%d 
+stage %d: CGAIN=%d FGAIN=%d, (%d,%d) %d; 
+%d, %d-%d, 
+total_pwr=%ld, min=%ld, max=%ld, rftx=0x%x, bb=0x%x, att=%d, dc_i=%d, dc_q=%d
+rxiq: rftx=0x%x, rfrx=x%x, att=%d, bb=0x%x, %d, %d
+8@boya
+8@gd
+8@generic
+8@issi
+8@mxic
+8@th
+8@winbond
+$ 4s)
+_	as
+o@pd
+Eo@P
+A]GcV
+BpYA
+ @2F*
+o@pN
+G!Hc
+B01A
+Bp/A
+o@00
+o@0'
+o@``
+B@U7	
+[3v&
+3	IA
+)13D
+s& ~
+o@@%
+.3du
+@P:o0PI
+@3t4
+@3t4
+o00=
+2p67'
+o0P/#
+Fc@f
+0`2)
+G	Gc
+LL(@
+rG\\
+3#*t
+\QHU
+ `~A
+xvj#
+o p}
+a7}(A
+o Ps
+(2EA
+	Eo pk	Eo 
+Qo 0h
+	Eo ph
+?o pe	Eo pg
+"0O.
+HA35
+o P=
+ao 08
+o P+5
+"P%7
+2E\A
+IXIcn
+2E\A
+2E\Ac
+C8Ci
+KciG
+ao P
+CxCc
+Kcc'
+2E\A
+Eao 
+XCcd
+ao @c
+CxCc
+XIcl
+2Ec}{
+aao 
+ pAM]
+2Ecw{
+o  ;
+"@4*
+"`2*
+@"DA
+@"DA
+@"DA
+@"D&
+G3#&
+VDD#
+VU77""#
+6Tv#
+`\G	
+uu"35
+@bD&
+7wkk
+7gbb
+7gcd
+r3sS
+FI?|H}U
+AXA3
+G>|W
+Ri!u!
+&i&7
+.m&o
+Oqv}
+ p7)
+@\#$
+\@8@
+8@\D
+ t EA
+\\\*
+XGXGXC
+9qASj
+APW=
+APW=
+@Aec
+KcEI
+H@AXI
+?XP"
+XA|K
+\@7G
+GB	q
+A\AI
+A\A	
+A\A	
+A\A	
+-(\@
+L# '
+C#&j
+7A3T
+C#&$
+gA3T
+L# '
+Ud""D
+DBI"J
+3	'A
+2ETT
+JBKEa
+JBKEa
+@"DA
+@"DA
+T"G7
+@"DA
+D3YI
+K3u%
+zyqN
+5A"T
+EAbJ
+PbT&
+KbL!a
+eAcf
+@"DA
+<\c~
+ $"D
+@"DA
+0Xcf
+K!ao
+GrG"
+I%"T
+"yq&
+JBKEa
+H\@"
+IbJ&
+@"DA
+C3gg
+%#"4
+IbJEa
+@[2G
+"\aa
+KbJN
+IBKEao
+	fcf
+MAg}
+EqFH
+EqFH
+J}Z	
+F\Mc
+`vv7
+`Vt7
+GU7$
+Gb#,
+Gd#$
+>7'	B
+?uF,
+ yF,
+D,}F,
+`F/	i
+`&,7G
+~# 4
+$!	#,
+y	#$	
+/#(T/
+d5# 
+<#,$
+PvR7
+PVP7
+E 1G
+ADIc
+7aFJ
+cj	E
+0-l"
+@mu&
+CJ7)
+P[_H
+c?yq*
+phv*
+p@!"
+p(|*
+pHm*
+p(l*
+px:Ea
+ (%a
+0m=)a
+`p#Z
+`@~&
+` qA
+`x+c
+cn9q*
+#d7$
+`;]a
+@	# 
+0 oc
+0 lc
+0@i4
+0`fc
+G	Kc
+0 _4
+0`\c
+0 W4
+0 O4
+0`*4
+0`"4
+ 0|4
+ py4
+ Pp4
+ Pk4
+o0\;
+@\Ea
+iTH*
+aTH*
+KUc	
+\H#*4
+EaF(
+	7\D
+G#"$
+{AQF
+=+6W
+lD#*K
+?9q*
+V2VJ
+I)FL
+C{yq
+w9q.
+#myq.
+#h]q
+Em5A
+Eo0k_
+0+A1
+`[EF
+ {tA
+Eo [p
+Eo0K
+ ;iA
+ ;ZA
+o ;?
+o [>
+Eo [6
+Eo ;a
+Eo0b`
+$Uf*
+ (cS
+0~_c
+EAE#*
+E)E#&
+Gyq*
+CVyq*
+ b7%
+EAE#
+ /qFL
+@'qFL
+cqFL
+GXCc
+0(Z&
+HA}W
+HE}W
+E	E#
+jEct
+C7\L
+"EAG4
+0;)E	
+"EAG4
+cr:#
+`zcS
+ zcC
+@rcY
+Iy!a
+IaF,
+GaF,
+f-	F
+V#,$
+C2aFA
+P@LD
+px<*
+p8&*
+@H>*
+GAG4
+r"Jc
+E}W0
+E}W0
+E}W0
+ Y3A
+ Y+A
+@p{Ea
+7 2E
+*!G4
+&!G4
+G}Gc
+G	d:
+G!F,
+	e7'
+&{7%
+?AFc
+?AF,
+ V)E
+G!F,
+fRTH
+@L@&
+I9qc
+F$!a
+@w\\&
+G8@#
+C1AG
+-\EA
+#*AG
+F-FL
+5\@# 
+0FsA
+@}Wc
+YL}W
+P@}]c
+A\Ac
+`	H@
+Ayq*
+ i+l
+aJa[R
+#RD@
+@sg}
+%Gcf
+`cr*
+`cW(
+@B_N
+		.%
+1>2E
+XT]A
+`nhL
+@Z# 
+GT@Qf
+?)Gc
+s)Gc
+v5Gc
+v\H7
+F\H7
+%Fc`
+mFcw
+P8\H7
+B\H7
+{\H7
+@R\H
+%Gc}
+%Fc|
+4)Fc
+eHcb
+z\H7
+t\H7
+9Fcl
+)Fcg
+)C-N%H
+@# $
+Qgcr
+H)C-N%H
+DHD37
+b%Gc
+@TH7
+yVct
+U#,D
+`rC0L
+I,LpL
+G|L,L0P
+@FMa
+`R1a
+TD7F
+DXDcJ
+B#,D
+%	q7
+0W~A
+\	QF
+OBW6
+0y*A
+ `cb
+0IxA
+C:9q
+7g	B
+7w	B
+1	Ic
+)JaF,
+VaF,
+)JaF
+$#(A#
+yKaF
+.#,!-
+,# !-
+)JaF,
+"#,A!
+0aF,
+)JaF
+ # A!
+Y%aF
+)JaF
+)I#(
+*aF,
+*#$!+
+*#(!)
+(#,!'
+&# !'
+WaF,
+aF,	
+!IaF
+#q5q
+#O9q
+c89q*
+C49q*
+#09q*
+,9q*
+'9q*
+G	G>
+<"F#
+@@wU
+P{oA
+EopZ[
+Eopz
+Eo`k"
+cyyq
+_yq*
+2EEa
+SHD}W
+Aiq*
+PQDc
+p|@7
+`aDJ
+DyWc
+P!l*
+Pa=*
+P!Y*
+Pa[*
+@Q;c
+G	Hc
+PaF*
+G	Gc
+PaN*
+@1.c
+ErGc
+P!<*
+@qK*
+P!)*
+@1(2E
+@q)\P
+@1O	
+	"=F
+@14I
+@!G*
+T2E}
+\E]q
+@k?!a
+69q*
+\Emqp
+5PQa
+5wh	
+4=Fl	(
+cWy!
+?	G,
+PZC*
+PzBI
+PzAa
+PZ@a
+P:?I
+ =F,
+  MF
+EH35
+(c		
+	EcI
+@7#*
+\L	Gcy
+`+c	
+RG|D
+VRG6
+}UEa
+}YbU
+0"=*
+\FcX
+P7EE
+P77*
+7@ch
+Pw)*
+#Fyq
+PG}	
+PG{	
+PGy	
+7@cj
+cz@M
+\\A\
+ Z[%
+)E3E
+#&9G*
+'(\D&
+@7q\I
+@Wp\I
+@wo\I
+0W~*
+0wz	
+b"E&
+@*Sm
+0Wj*
+I)FN
+0W:*
+0w-*
+07)	
+07 c
+4\Ic
+I3:@
+I1FN
+@GA\I
+@g@\I
+@H5l
+	IaF
+ 5{i
+GeEc
+DX@c
+pH&	
+geEc
+%D77
+A@@&
+geEcu
+pd[AF
+ %AFL
+'A"#	
+-RIc
+w&bDQ
+%rG=
+=Wce
+\@cf
+K7&	B
+@4{*
+K7v	B
+0o@H 
+AiAz
+GRG=V
+GbGeE
+aI7t
+GaI3
+aG3	
+	E!a
+GQG3
+KYq*
+pIFl
+geEc
+%	7P
+THPX
+0xA4
+8ct;
+\L7'
+\\#$
+GM#,
+`x^#&
+0([c
+0dd*
+#(4=#.T=# 
+0#,4;#.
+;#.T
+0Tk7
+HI9q
+ 4y"
+@7-,
+tD#,
+}Yq*
+!yqc
+ (cl
+cQXA
+ $-A
+$H"E
+D3"E	
+WY4@
+\Daw
+c#yU
+\QmU
+@En"
+!FIE
+5-2E
+F	F,
+F	F&
+z2Gq
+C{Ag}
+t0\@
+^9q*
+EBFH
+GeEc
+FeEc
+C9q.
+EBFH
+GeEc
+C/uq
+FeEcn
+FAFh
+<yz7
+@+2Fc
+rG"V
+G"G#
+Kc`[
+GyEce
+HTD#
+|}I>
+F	GcT
+@}U3
+pt~	
+pTq%
+pTm*
+'A9c
+R/HH
+rG\Pc
+pTJc
+pt}c
+&A5>
+&A5>
+'A5#
+pT^!
+p43c
+C6Gc
+Di2E
+MvLj
+`BKM
+`tfc
+G6	e
+GS#*
+Y	#(	
+#.y	
+G(	c
+Q\QJ
+cwDA
+%Fzc
+\T#,
+BR#"
+'Ly}
+*%Gc
+\T#&
+	Ik-
+Gyq*
+FYH<
+|E#*
+XA\G
+@(#*4
+`,cT
+<HL\&
+`_(H
+	Ik#(
+`O#$
+<U,Ax
+`?cY
+pzcX
+}UQa
+@F2F	
+@.cG
+WLG	
+g2Fb
+ErE7
+Gh@b
+ QccE
+P1cJ
+P:c@
+ ><H
+n<H#,
+}Uaa
+kT# 
+GbG6
+F0[|WlS
+(D17
+&D17
+}Uea
+\E]q
+00$*
+	PqJc
+`CPD
+`H@7'
+LPHH@
+I9q*
+!iE	"
+ AI	A
+!iM	
+!iQ	1
+!iU	
+%DPN
+H	Gc
+00#(
+!i]	)
+1Hc]
+s2E!d
+}]2EJ
+cw\M2
+h|P}U
+dyq*
+}*}U9
+Tyq*
+} }UEa
+W# 4
+GXG3
+eGcg
+eGqEcu
+	I-J
+2E\E
+2E\Q
+2E\Q
+,2D\P
+2ElA
+)2DHL
+@X@c
+\P!F,
+# $	#
+p{cU
+F|A#*
+C"9q
+J]E&
+MceI
+FuFaH
+N1GU
+\Q}W*
+@cZ 
+2G\S
+#v\Q#&
+ ^\P
+`k#&
+ pI*
+`^!F
+D}W\Pc
+\E9qc
+HaFL
+\Eyq
+G	Gc
+JcX$
+\	F"
+T\}W
+\EuW
+G#$4
+ADA	
+pkHEo
+nHEo
+pq\E
+p;!a
+iyq.
+FpQc
+BGRH
+E2UR
+WTGc
+rN#$
+G9qc
+*2H*
+t	}T"
+tAcb
+A!G4
+TDX@c
+`Q# 
+`Q"Gc
+rE2F
+<#&5
+E	-!
+omq	
+4P\P
+A\Qc
+LDH@
+LDH@
+uWcx
+I\Dc
+\Ecl
+D\Dc
+CL)(*
+Jp9q2
+"G# %
+Jp#(
+.\E*
+01e2E
+0QW(
+}Y#"$
+@"yq*
+\T#(4
+THct
+`1t*
+$# E
+\@(@
+\@(@
+@A!DL
+XL\C
+LEcg
+iG}F#
+F	G#
+IYt3
+C'}T
+%Gcu
+}U35
+	GcY
+2E	!
+4U,YbFhU
+="35
+%$#&
+1,#(
+H@}VL
+F# e
+FH@&
+W}Uc
+A	F"
+ 034
+`J35
+@B35
+Cjct
+Ict$
+C8PA*
+5\E*
+\A2F
+E#&	2
+gTt	
+1	g}
+G-E#.
+0	GBZ
+y	 3i+
+BY!F
+#B		G
+0	GRZ
+GRWc
+RY!F
+G)Ec
+&G#-G
+5(AF
+"rGc~
+GYqc
+ pxV
+'A# 
+!GAEc
+	gAEc
+`/!a
+ 09a
+I #.
+' 	Ec
+G !Ec
+c/@@
+c,yq*
+@\h\
+X\c	
+X@\G
+X@\G
+	3iy
+EAF!
+ ?8A
+ jAF
+@AF,
+C;]q*
+#6]q.
+@P>}
+X@\G
+PRG\DBF
+}U}a
+JV# 
+ZV#"
+jV#$
+f9q*
+_9q*
+ [c^
+F1 A
+s}T1
+j}T!
+>w$P
+%	 !
+c#5q
+`T#.
+J# E
+@	GcU
+GcnG
+@	GcT
+3	IAy
+`OcW
+"F#.
+lHhP6
+hPlD#"
+k# $
+pST\	
+pGxK
+0G8K
+}U}a
+*Mrc
+DhS4W
+%Mr	
+"E#(	
+RFHH
+GI	3%
+G}Uc
+#(	p
+}Uia
+#($!
+%D!c
+E#&$%
+nm2F*
+M9qc
+chg	
+Gq]q.
+FBWc
+ 1#"
+I#&	
+%D!# 
+2	E#
+}"c]
+% cA
+cw}U
+%Gcu
+Coyq*
+DMKc~
+@cy[
+}UEa
+Jcr4
+}Uaa
+S9q2
+CAg}
+2Aj*
+AGcj
+I@AA
+G2G#
+pP'#
+ pg#
+XUWc
+KAwc
+p mU
+'G{c
+\T#*
+CT@c
+GTDc
+p`eM
+VHS#
+?HHl
+	~#,
+cKe	c
+Gh# 
+D\T#
+H@QF
+q&2E
+U+uUI
+cqyq*
+Cnyq#
+p-}T%
+	~#,
+	~#,
+}Uaa
+\D#&
+\H#*
+@e}U
+ %)F
+"	3i
+P`l7
+GGtc
+\P	Gcu
+\P	Gcx
+PSct
+-##.	
+PHcY
+P 0#
+	!Gc
+2HBF
+p ib
+k@A*
+ EGc
+W\@c
+2W\Dc
+]GcdG
+!f3w
+QGiU
+	4A&
+ @s#
+'Guc
+'Juc
+@0lA
+E@A>
+qGyq*
+D@@A
+XTqU!
+P0&}U9
+(9E6
+O)D)H
+paG3
+Cja!
+%Gcj
+%Gcj
+P0J*
+@F#&
+`%#&
+<i+!
+	Ect
+00Oc
+$Agm
+2NrE
+P`p7
+|@#.
+<D}Wc
+|D}Wc
+HXDce
+]$c	
+Gcc'
+'Dv# 
+@@Q*
+\U#$
+0Ps*
+00p*
+00k*
+qUcF
+ P{A
+ 0uc
+Q*"H
+<@h@
+v1Eo0
+@U"F
+'Gw# 
+'D	1
+z#.d
+&D	#
+F%h*
+0pm3	
+@cJ	
+'E	Q
+GiUc
+ @02G	
+FUUc
+3	9AB	
+HA3	yA^
+#(D	
+'A# 
+Wixc
+%D	"
++D	#(
+0 43
+7AcJ
+%E="	E
+XA\@c
+XE\Dc
+CF\Y)G*
+'G{c
+\U#*
+E\Uc
+E	(]
+0DlX
+\T#,
+'G{c
+\T#*
+ \X)Gc
+%D	!(#(
+A9 "
+4I,E
+'G{c
+GAcs
+FXF9q
+%-!a
+G#$T
+#,D	J
+LTTc
+,XAu
+CX@c
+GXDc
+CX@c
+GXDc
+CX@c
+GXDc
+G9q2
+'EsA
+%J}l
+$cK'
+s#,	r
+`Y#,	rY
+@T#,	r
+ FYD
+~#,	r%D
+~#,	r
+~#,	r
+~#,	rYD
+P<}U
+`># %
+-}YJ
++}U!a
+#}U!a
+KcF4
+JcF$
+2HBG
+bCrNcB
+\A)GA
+ATAD
+G@@c
+)(P@*
+APAA
+tx"E
+ %2E
+-EEa
+hbE2F
+@f!a
+ 2:*
+A\A*
+C\@.
+<\@c
+u2EA
+CJ)q
+J}\}
+3	;Ac
+H3	IA
+c 9q*
+a!!a
+@"|(
+0rqQ
+@"M	I
+R3!a
+E\Acv
+LA!F(
+G2Fc
+EAF(
+1 !a
+&xMa
+0#HH
+A\C>
+!Gcz
+2n\X
+\XHH#$
+GHXc
+u)\P
+j\P-E
+<D# 
+&"E2F<A
+]$2F"E
+@%4l
+p%#	
+`Uy"
+`5j"
+(DDA
+DAc		
+"f	I
+`e*"
+`%%"
+t"2E
+CjAe
+GaDc
+#U5D
+1GaD
+pQK*
+c3-D
+Dh2E
+`F2E
+8E\@c
+8I\Dc
+iYq*
+FD	:
+M\@cg
+y"#$
+AYqc
+xL<P3
+Q0"D
+0"|,
+WH@#
+bH@p
+ uK*
+@Qxc
+"|Y*
+puH|X
+ H@	
+A\Ayq
+G#	4
+ E5*
+ 0jc
+#.d	
+I1K#
+ B #
+cmyq
+dyq*
+#\5q*
+geDc
+t7FJc
+E"Ec
+@Ayq
+0UOl
+@Ayq.
+0ULl
+0UHl
+ab#,
+EzTL
+h# 5
+P}|Q8Q7
+6cs5
+(	Gc
+ 4\&
+LX1F(
+p#Ea
+&#(A
+ %m}
+FRGrH
+GH\#
+C# 7
+4:AF
+ e,N
+E\Ac
+ $3=
+o D,
+\T\>
+A\A\
+PT;\L
+PT4\P
+Gcn'
+QrKJ
+axrEE
+W2Wc
+@%sE
+G1Hc
+AXETA>
+%Fcd&
+\L_c
+%Gcd'
+\P_cf
+XH# '
+AXETA>
+AYq*
+e1-D	
+o"Tq
+GBE#
+Cq-E
+APAh
+APAh
+<yq*
+\DX@c
+GXIc
+G\Icf
+GAF,
+GAF,
+Aqq*
+RE!a
+2FcG
+2FRG
+1	\D
+REEa
+cdYq
+y!r[c
+CI\Q*
+U9q*
+,D@pH
+\P#$
+GPG3
+@h3y
+@P@H
+1 	a
+l}Zc
+P"U1F
+EXE!F
+	G#*
+~}[c
+T!#(a
+a*#.
+,<@	Gc
+E\E#(
+2Gc~
+ J#(Q
+GX@c
+I\@c
+D\@c
+5!#"
+Gmq*
+w	qGc
+H\Dl
+E}Sc
+ lAF
+c(Uq
+ Y="
+N-Eia
+GrG^
+V2W>
+GbWR
+!%#&
+I##$
+y!#$
+=)#$
+F&G#&
+AF#*
+&#.q%
+-$#$
+i # 
+ y# 
+9(# 
+`r# 
+Byq*
+AoP1`AF
+H@	F
+s="E
+FY$*
+H@	F
+F),&
+HLD(
+FQ$*
+H@	F
+,XD	
+PH@	F
+#f\Eyq
+ @'Y
+P!GA
+C\Eqq
+8\Eqq
+.\EA
+PA"*
+C'\Eqq
+`qpi
+`1k=
+p!P-
+Wa	#
+LD#$
+V!%c
+Wa	#
+	LD(
+DE)q
+	LDc
+1%#	
+%LD(	#
+PGLDJ
+GA	LD
+Wa&LD
+'iEc
+WA26
+W!2#
+Wa<LDcc
+-LD(
+&LD(
+# XE
+Ga	#
+G(	N
+)&\@
+(	#&
+\@(	
+	AF#,
+(	i 
+<)q*
+H\Hcp
+(	e*\@(	
+J\Hc
+\@(	
+ \@(
+tMq*
+1*LD
+o)q*
+%"(	
+m((	
+LD(	
+cXyqh
+#Ryq.
+@yq.
+C<]q*
+C.yq
+(\@#
+&\A*
+\CTB
+@avY
+@A~!
+@az	
+PA3i
+@q\Q
+PaAA
+@!OA
+@a[	
+@aZ	
+@AV-
+@AU)
+@AT)
+@AQ	
+@AP	
+@!L	
+@!K	
+@Q=	
+@Q:m
+@Q7M
+@14	
+@Q{}
+@11m
+@1@U
+@q)U
+ALAXS
+ALAXO
+PQ-D
+XAcs
+c_Iq
+@q8c
+@A]c
+@a~*
+01Yc
+@!`c
+01qc
+0QqM
+@AS]
+0qnQ
+@aP%
+@A$1
+b[rZ
+[*L>
+GbFrG=
+	Gcv
+01#q
+`1aK
+0Q	-
+`1=Xc
+yWcnW
+C.%q
+01),
+QKci:
+		q*
+DPD(
+Ict9
+Ict9
+W)Ec
+[BEL
+g	cn
+dnBE
+``LN
+P4r)
+@L@3h
+P$'-
+#Myq
+MXCc
+/LA!
+AXA"F
+0cH	
+FZGRV
+MTM#
+@1-*
+\A}Wc
+@d9#
+c{yq
+@`wEa
+Oo@@d
+c`yq
+@`\Ea
+Pyq*
+0tzy
+Wo@ 
+ `3i%
+2I"D
+#%"W
+GJG>
+?	G#
+PB	E
+@D7E
+q|L# $
+c-- }
+$\B#
+pgca
+<DxD
+Gyqc
+01B9
+EmFH
+!}UU
+\@	G#
+$caG
+ErE"
+2FrE&
+@yD:
+ErE&
+0$.J
+G#($
+G#,T
+Tqq(
+GAgc
+[X[c
+Xyq\
+`H)7)
+7Wfw
+E!F"
+1Gcu
+1Gcu
+1Gcu
+#<RE-D
+ dWRFbE
+@dQ"
+cw75
+fPAA
+Ccyq*
+XHA7(
+W)Fl
+@m\@
+KHAA
+BPB|
+.HAA
+#*HAA
+&HAA
+BPBA
+GeEc
+04Ea
+BDB*
+j\AA
+E)Hc
+B}W>
+PPH@
+G}Wc
+|H3	%A
+@35%
+|P3	%A
+@35%
+G2F*
+\@TD
+m+RE
+` m&
+.HPU
+@U$HP	
+` YA
+2F"E
+GRI#
+3	IA#
+Qyq*
+G2Gc
+ /7"
+ueD]
+wyq6
+.}75
+$qqqD
+#J5q
+!Gck
+?5q*
+~!rFc
+!Gcg
+-mq*
+^$QDA
+p>d*
+p>S*
+p~K*
+p>H*
+p^_*
+p^?*
+p^-*
+p~E*
+p^'*
+AOcfo
+ 0ci
+	Ec^
+AXAh
+cX@#
+#>\A
+C"mq*
+A1q.
+@$cc
+DA5q
+s$\A
+\E9q*
+2F@@
+HE35
+STQ2
+E#*T
+!#,D
+@TPN
+@TPN
+@t@p
+	G|AA
+@TTPD
+@s"2I
+GAEc
+O1G4
+C<%q
+c-DA%q
+=MFl
+ppmQ
+pPn=
+pPl9
+ppn)
+@Ayqh
+K	(l
+@Ayqh
+K	(l
+OFJVK
+GREbF
+AQq.
+p rc
+ppMc
+pPKc
+pPLE
+p0JY
+p@i%
+p0B9
+`PR5
+`p]=
+GEk9q
+#UIq
+p@#*
+p {*
+p`"*
+``v*
+0P3*
+`po*
+p@G*
+p@C*
+`0a*
+p <*
+`Ph*
+0C&nE
+#&-De
+F(	>
+` .*
+``=*
+p`&*
+p3z,
+``#*
+"W4	
+p3l*
+0@F*
+Iyq*
+GiFb
+#"di#
+tyq*
+EqFH
+GD"	Gc
+PWcf
+GD"	G
+``%*
+``#*
+Pp}*
+PPn*
+``"*
+G5G#(A
+pcgN
+P@^*
+	8	t
+P X*
+P@c*
+p#C*
+G1 	G
+G1 c
+d2]c
+ @!,
+Z-Mc
+RFrZc
+G-Mc
+@P}*
+EZFRE
+CR(	
+PPF*
+PpQ*
+P0N*
+	8	t
+P`v*
+3>nU
+BdRKc
+PP"*
+P@;*
+@0z*
+#*yq
+`F"D
+)I6c
+<LlD
+DXD#$
+\E#&
+\D2G>
+DXD#$
+\E#&
+\D2G>
+@PQ*
+"#*a#
+@P5*
+@ h*
+"#*1#
+	I!	
+0p#*
+UfVR
+'E!*
+E!Y 
+\A#"
+ILE9q*
+\H-E
+0p%8
+0`P=
+-xX#&
+c7Gm8
+G]q*
+eEaa
+@XW#
+ 0s\D# 
+GE$9q*
+pSI&
+p3@}
+0 .	
+0pG4
+I9q*
+0P@"
+c59q
+`RWm
+0P#4
+C'9q
+0 i4
+ cK(
+H@Q*y
+0`74
+CXCc
+g\A6
+ x"E
+(# $
+$9q.
+G9!a
+HLDN
+HHD3
+eGcg
+\@uW
+6	Dc
+GQFc
+rn!E
+@tAF
+Q#AFL
+#AFL
+SoPM
+)	Gc
+$	Gc
+AAw# 
+TA}W
+XA	E
+AAw# 
+2MrNbC
+}Gcp
+\Q	G
+\MeE
+\P# 
+%Gci
+MXM*
+CnPD
+cXI*
+@i2F
+u "G
+("G2F
+HXH)
+#&9q.
+c 9q.
+G#&$
+}T#$Z
+	Gci
+q 2G
+)Ec{
+\L3	
+\L2G
+2G\L
+XM\I*
+TH3w
+|9q*
+\DDL
+8\EA
+0ci"
+ R=i
+ t\Dc
+RVBE
+ 3p	
+ C^&
+ #L"
+#K	G*
+Duq*
+c<5q*
+	IF(
+c!5q
+E\Da
+\\X"
+	5AL@355
+LH	#
+\L# 
+Ra\L
+LP	#,
+DLAF
+ LKHO
+X@#$
+L\L# 
+	B#,
+	B\	
+w9q2
+#p\P
+#k]q*
+LI3w
+CXK}
+m Ea
+C!\BAgA
+1 Ea
+pA2E
+"	3i
+"	3i
+x`A#"
+P@c*
+2F]G
+P`YAF
+!Eia
+"	3i
+P )*
+@P3"
+A9q*
+M#!a
+	)Ea
+p !A
+"G2H
+MAM	L
+]GrE
+G"E"
+E!(a
+C2Et
+GbE&
+lAi}
+G2E&
+5!EA
+@42Ea
+FAG9E
+H@	F
+0pNU
+pQ~Ai
+p1v*
+Em$*
+Q4"F
+q}|c
+p1D*
+@a9*
+@Q!35
+\H7u
+GXDc
+G0!G
+@!*c
+ y%G#
+0qib
+p1wJ
+pQ}*
+p1{c
+pq_*
+L2EA
+Q#Ea
+E!F,
+C}V,
+w	Ei"
+'GZ#
+C 9q
+GeTc
+)G]q*
+?}W#
+ c		
+`z7V
+WE7e
+@V7V
+<#"D
+ L7V
+`J#"D
+`F7V
+`67V
+<c@:
+u(2FE
+ [35
+cF%	
+UAcf
+@cS$
+@0tED
+09+7$
+X#"	Z#*
+?MG#
+?MG#
+p>{*
+'IZ=E
+?MG7%
+?MG#
+p^c*
+/g7'
+cY	jA
+c57$
+GMDc
+0PL%
+1D"FN
+1Eo0
+FAEc
+0P$2EA
+0 }c
+I#7$
+A9q*
+ P]R
+[9EEa
+VEE}
+ PM2E!
+G}Uc
+KcF{
+G	F"
+1 !a
+GyDc
+ @m2E
+ @k"
+GyDc
+  Z"
+y#uDE
+GyDc
+G	Dc
+EA-*
+g}GIE
+GccG
+$uDa
+PS5E
+#']q
+0v"E
+lM0Q.
+0t"F
+F	F1
+	FME
+F9F#
+GbE&
+@cS4
+EQ#*
+ho0Y
+Eo09
+F5Eo
+("EA
+Eo0Y
+i2Ep
+rE=(*
+		 #
+F9F#
+EaF(
+G1Ec
+)Ecf
+G1Ec
+EaF(
+G1Ec
+c|1E
+v9q2
+Ck9q
+G1Ec
+G1Ec
+G1Ec
+W}$7$
+-$3yi
+@Z# 
+,	Gc
+bD7Z
+6AcN
+IAcH0
+F	Fl
+EaF*
+G!G4
+xGLD
+xGLD
+xGLD
+xGLD
+\F!g
+E1GT
+\F!g
+E1GT
+E1GT
+)E3T
+g0c	
+Eo p*
+,q!b
+p'-)
+ :7%
+`:\Q
+P@QA
+1@QA
+ 2!GT
+ jcj
+NDQ*
+&)-V
+GXD#
+@_	(
+K1GT
+ E1GT
+31GT
+F=	F
+F)Uc
+G)UU
+K4	c
+``dN
+6XL%E#
+CtAi
+P`	M
+GU	}
+G)UcK
+@0Z1
+)Eq 1
+@ f	
+@ ]c
+@@U)
+@ R7d
+@`Ac
+<!F#
+@`:c
+@ 6c
+k	l}
+00|a
+p0=7e
+K3	j
+NoTD2G!F
+0 b\A
+0`a\A
+0 D*
+p@~&
+0 25
+#ZyqAj
+E)Uu
+	GAUc
+2Fco
+G]q*
+	GcD
+EeTc
+#r7d
+`@#A
+ @$	
+c,Yq
+,# e
+P(AFL
+AI7d
+`	AF
+YG3W
+E] !a
+2DAG
+P@KU
+0q*F
+HHT1G
+Cavq
+@PP#&:
+AcP@
+@0*Ag}
+G)Ucz
+@0*5#
+!\A)G
+M)XA
+i&#"
+G6!F
+$7%E
+},#"
+g647e
+ci7$
+Ze(]
+F1 A
+mU1a
+WAFc
+@ci9
+G	E:
+G	E^
+2F"E
+@Q)U
+GAiA
+ 0W7e
+	EaG3
+ `]Y(
+@AF(
+@AF(
+]1FU
+D	Fa
+D1FI
+C{	H
+b9q\
+N9q\
+Ayq<
+`IEa
+*	FA
+C3@Q
+"	3i
+5+eF
+ `\D
+1yq<
+E@E>
+&2Ey
+).)U
+"mUEa
+ga#"
+G9q*
+GHAc
+\DH@>
+G!Kc
+ImZ]
+?%G#
+# 	0
+)YHD
+)Ycv
+	Gcf
+L@aF
+G!Fc
+{yq*
+U"Ea
+xyq.
+uyq.
+Cqyq*
+cnyq*
+kyq2
+i Ea
+fyq*
+ccyq*
+1 Ea
+Vyq$
+LDaF
+C5yq.
+0TEc
+HDcJ
+A#,$
+G"Gc
+JA#,9
+p>cbG
+D\@cs
+p>cnG
+HX@#
+D\@cx
+U?\D
+#m9q.
+#m!G
+)K\H
+GXDc
+G	HB
+d2Ic
+PAW}
+D# $
+P-\@H
+G4#"
+W!	-E
+OUq*
+y$LH
+3	YAJ
+*DIUq
+F\Dc
+Fe,9
+VE,Ag}
+,yq.
+Eopm
+ALAXS
+ALAXO
+ALAXS
+ALAXO
+ALAXS
+ALAXO
+AGcf
+	G-E
+o`]Q
+CCeE
+HrH9
+##\A
+Eo`mv
+JAiA{
+cv&	3f
+GK7d
+c @IYq!
+I\@c
+@IYq1
+I\@c
+ 7aF
+:3\@AGc
+@+aF
+`"aF
+YGcj
+GaF,
+@IAq
+K	L\@c
+'+c`
+)G#(
+)G#$
+WaF,
+G]q2
+pXaa
+WXAc
+`@dXA
+H]q#
+?]q#
+6]q.
+		a>
+Eo@=1
+Eo@}0
+Eo@}(
+I	JH
+$\@*
+\@Afq
+B#$1C
+#$q'# 
+AAq#
+UBV"
+PXya
+PXya
+H@CAGcs
+C*HAo
+Eo ]!
+Eo = 
+Eo }
+@`&)
+GeEc
+GeEc
+uI2C
+>cxe?	
+}W# 
+FRGc	
+"G!F
+GB[RT
+Jatm
+GBZRT
+BVRW
+c]q(
+1 aa
+PyqH
+Pni!
+0pqia
+a	\@
+@5#"
+=I*"
+oP zA
+	U	#
+ e>#
+[6F8
+U2V#
+U2V&
+,M9q*
+M-!a
+5	B7
+E2F"
+	U	>
+^\Ac
+0.y"
+C0\]
+C+\]
+IQJ|
+FQJ|
+"9q.
+GeEc
+0Ag}
+3	YA
+E=F*
+@T@#$
+K7F	B
+7I	B1
+pP@A
+TU}Wc
+P0yA
+p`,Af
+p +A
+l.HAo
+AAGL
+cj4A
+0Oc	
+geIcz
+pp@N
+pp:N
+p z"
+I}Wc
+I}Wc
+Eo0W
+HAopL
+HAop
+HAop
+Gyqc
+AuG]qc
+` I*
+3!E#&
+D\DV
+@P@\D3
+GeEc
+<A]q*
+(@aa
+QI3	%
+GaI3	$
+PQJ3
+LM)c
+aI3	$
+0oP`	
+GUq#
+GaF,
+GaF,
+E-G-q2
+C84A
+C2]q
+c(]q.
+P`sc
+P`m*
+@0<"
+P@eU
+0`^A
+BTB>
+<_p_A
+D\D3
+#&!!#(
+D1F(
+Pph	
+64LxL3
+|H8H
+ @|c
+G}W#
+pHcg
+Il	h
+-G39
+S|\c
+GF3	
+IeGc
+A\Ac
+XQ\Uc
+S-Eci
+@}VTDc
+\C}Wc
+A}Vc
+A}Vc
+CTWc
+	Gcj
+Eop<I
+,]q.
+pw"F
+?!F,
+?}W#
+"Y2Z
+@Z"G
+G}Sc
+@}WL
+9 35
+K)"A
+KQ q
+R2Fy
+E%FH
+#$$	#.
+]X]*
+\TDP\>
+#`o0@
+#J7G
+DA	e!
+DA	e!
+P4{*
+oPl(
+EoPL'
+EoP,&
+xQq*
+cWDE*
+E\Ec
+=Wcg
+o@\R
+GEmA
+E%+#
+GexA
+G	Ec
+G"Dc
+UGcn
+2E	G
+2E!G
+UGcn
+p=J"
+A!G4
+myq.
+b5q*
+f)	F
+#O9q*
+fn	F
+&c	F
+EaF(
+`6BE
+)LaF
+pNaF#,
+aF# 
+PCaF
+p@1MaF
+P2aF
+=KaF,
+GaF,
+$#(a#
+)KaF
+*#(a)
+(#,a'
+GaF,
+JaF,
+0#$Q1
+0#(Q/
+8# a9#
+6#$q7
+!aF# 
+6#(a5#
+e!aF#$
+4#,a3#
+2# q3
+`=)#.
+Z@Ac
+@\@\
+HA35
+1(\D
+H# 5
+F}Uc
+G]q*
+0T52E
+ mVaa
+DH# $
+P=J# 
+GAg>
+?	G#
+GbG#
+bHrG
+0$Yu
+EopF
+	Gcq
+c(9q#
+Fcfw
+C!1q
+bE!F.
+GQD3
+D	JH
+'	7c
+G!		Dc
+A\AH	
+@(rD*
+"E2G
+2EBG
+Cx7$
+Cu7$
+U	B7
+<7U	B
+D,#*
+AMGA
+6IGc
+6=Gc
+=G#"
+)G#"
+!G#"
+\SDDc
+\Y#(
+}Uaa
+	Gci
+ zcH
+`xcM
+`gcH
+GLPN
+GLPJ
+-uq"
+p>c{
+@tcW
+@ecS
+@83u
+ am	
+@ELD&
+p0H@
+XAXS
+W?c|
+p>cr
+Rn# 
+F"F&
+@\I#
+|PIF
+`<(*
+@C`*
+0c	U
+?QFl
+F!Fh
+DI#*
+uXQF
+yLrE
+G"Fc
+>3	9
+\Ic^
+\IcT
+YDA*
+plg\@
+GDD#
+`y	"
+`9C*
+p,?\E
+	KcV
+lx#.
+# )G9q
+EqFH
+P	kE
+PiC-
+@\?c
+	Gcf
+"	3y
+G=GT
+`Q	*
+I1F"
+\I#	
+I)F"
+\IrG
+I)F"
+I)F"
+I)F"
+\I#	
+I)F"
+\IrG
+UGcx
+mGcu
+AGcs
+UGc{
+%Gc{
+QGct
+JcJZ
+#n}U
+c3}U
+E]Eo @
+EqFH
+qFaE
+HcE7
+E	Eo
+#C\E
+@|R#&
+uGco
+TA1GA
+G-q.
+@	Gc
+0<vo
+@|/o
+@,E*
+?	G#
+F}Vo
+0<d*
+D# 4
+),2EP
+G}ER
+q*2EP
+i(7$
+0\B#,
+;oEa
+0|=n
+HMGT
+D\D# 
+JBKEa
+@#*$
+IYq.
+)q#,
+ZOL@
+zUcu
+ K"F
+9Gce
+GW?cy
+GW?cs
+Ku#$
+0"PA
+e%#&
+	Gcv
+0P!*
+yqqF
+0pM9
+ez		
+KREi
+GREc
+2RE%Ie
+ 9Y"F2G
+ YX35
+Cm9q*
+cm7$
+0`Pa
+EbEp
+0@N]
+;XbE
+{S#(
+;K#(	
+U	3E
+D1FL
+ROea
+@cU7U
+7Uc@'
+F"F8
+`WcL
+@WcR
+ qe!
+)Gcj
+7@cw
+7@cy
+ `ac
+)AFL
+)AFL
+y0%E
+{AFL
+E2E&
+JcJ	$cx
+IEcN
+E	"7e
+0cB7e
+'*#"
+'5# 
+;d7'
+K3UE
+>3UE
+=GcP
+H@}W
+ H@=f}W
+=(}T
+@	Gc[
+=QFl
+%Gc}
+C0]q&
+2Ecn
+2Ecx
+;d#$
+<cF4
+FA	F
+1$7'
+ 5cV
+GaF>
+H:rG
+6bIJ
+`Ru#(
+A }W#
+}yq7
+TH	Gc
+cdyq.
+C*7$
+'Ae}
+ scU
+HL}VL
+=$35
+@AgB
+FY H
+F(}V
+G2Fc
+\E)Gc
+u@# 
+\D	G
+\D7$
+P;9RD"
+EIE-
+EUE	
+P+q35
+#|]q
+H"H2C
+c49q*
+KXKh
+`H'y
+M\I.
+D	M>
+	cC-
+EXGZ
+E)((
+Sct6
+Cb5q
+E%(H
+E5 H
+|Auq*
+H#"4
+W&W"
+WAgc
+WAgc
+WAgc
+WAgc
+WAgc
+G(	:
+E<	"
+0&(	
+!QFl
+syq*
+#nYq6
+Sc}6
+EE-H
+Em%H
+EU%H
+Ey-"
+E9-H
+E!-H
+E	-"
+E1%H
+cU7)
+Iyqd
+Ea)H
+EI)H
+Eq!H
+EY!"
+CXCcC
+}VcB
+E\A.
+E)((
+=()FL
+?#"9
+cm]q.
+AF# 	
+uGci
+MGcy
+G	Ecy
+:TP2F
+LGXC
+RFBE
+P+kb
+wA	Gcu
+TP2F
+iE3E
+iE3E
+4AcA
+\L"G
+I3I+
+G3VG
+@kD#"
+W]q*
+:o	E
+HLH#
+HLHN
+bGcf
+G(	>
+)F,	
+>(	3
+)F,	n
+}[# 
+)F,	
+)F,	n
+9jBF
+y^BF
+GBFc
+E(	#
+W!	#
+WA	#
+Wa	#
+G# <
+`_#*
+BFrE7+
+ {Z#&
+g?aF
+H	C>
+%I		
+F,	&
+F,	&
+HLHN
+HLH#
+WA	#,
+YA	6
+EaFZ
+K4	h
+iGcl
+&9G3
+		?c
+	Gcf
+*_\L
+GIJc
+K-Gc
+cA7$
+'S7$
+01oc
+JuI 
+PIp*
+`m7$
+E}+Q
+	E	(Y
+D1G3
+Ce7$
+C?7$
+c/	E
+7@cd
+0@B1
+%Gcx
+Dc\$
+H@# 
+]"\D"
+:XH@
+b\I>
+	EU&
+*v7)
+GD@c
+  o1
+)@\D
+EAGt
+G1q.
+G9Ec
+BKc	
+	Gcv
+G]qc
+@`-F
+\AUG
+@IuF
+#!qF
+JS35
+EY!t
+?#$	
+[yYu
+C	=j
+F}Vo`:1
+G9Ec
+G9Ec
+HL# 
+l5q*
+	IcF
+`z\Th
+c=qq*
+a$#&
+#*7)
+]#*	
+8A\Y9q*
+ hk5F
+PJk%
+PJC7
+P*D#
+	Gcw
+-Gcp
+c`V	
+E# +
+0yq*
+)F3w
+\IrWc
+JcK`
+)F3w
+TK7'
+\I7%
+XI7%
+GAGc
+wMBE
+BQF>
+qyq*
+7#rE
+E# :
+C(9q*
+P w#
+\I37
+cW]q
+		?7
+-Gcm
+4\Ec
+FQF	EA
+@	G*
+@ e#
+DqI7*
+E# +
+`]q*
+HIcy
+"H2F
+#+9q#
+ca'/c
+\I7%
+\I7%
+\I7%
+ @I7%
+0PKc
+\I7%
+@&#.
+0@,# 
+\I7%
+\I7%
+XI7%
+c7X@
+G	Fc
+P	}&
+Pix*
+PIv*
+0zk*
+Pi<J
+0zx*
+ 8El
+@Yl&
+C#yq.
+G2Y3v
+EaF(
+\IcV
+`0e]
+7aF,
+CWYq#
+E#${
+0KFI
+$\I#
+q# 	
+LcST
+\Icx
+IcHI
+IA,*
+GW@#
+DcJY
+EqFH
+#07$
+HA}W
+E}WJ
+)7\@
+=(\D
+\E	G*
+ 134
+9qqF
+I1qm
+0QE*
+01>*
+@AYq
+F}Vo
+z5# 
+y"|Tc
+E#.	
+%*=)"
+@6Wc
+AEm$
+w9AFl
+ 9;N
+?AL7+
+<fJc
+Y{%a
+EbHrC
+G!Ec
+0yq*
+mq#$
+.y#c
+!!7&
+!E!!*
+dWAg}
+	EA.
+:A#&
+@yqHDc
+cZ7'
+#L7&
+Ec		
+	d	I
+*\Cc
+EY)#
+Eq!7
+<AF>
+C<7$
+2}Vl
+YU=-
+	E-%
+G5Ec
+G1Ec
+GuEc
+G)Ec
+G!Ec
+AE])
+mUM&
+?9q*
+H@	Fl
+G9Ec
+A#,	
+Y>#,
+@w %E
+Y)F,
+F)Fl
+Y?7$
+C/7$
+@3	9A3	
+p9p"
+}Yck
+G(37
+AXIc
+I.rG
+zyq*
+p)I"
+IIq*
+W	Gc
+iGcq
+IGcz
+	Gcy
+YaF(
+cE	"
+F#$u
+AcU	
+	Gc	
+I!#,
+%D	c
+G	35
+7p7$
+G!G#
+PIx# 
+`ym#"
+GaF#&
+P	Gc
+X5QF
+X+QF
+	S7*
+@y'#
+@	S#
+	\Ec
+@F%7
+l}W#
+F\Oc
+\A	Gc
+m1G#
+e1G#
+0-Ee
+0Y&"
+ S2E
+@# 5
+`YCi
+Pyl*
+s% ~
+%~Ea
+Py<*
+^yq*
+C@yq
+AeG.
+9aGc
+"G\@
+bG\H
+K}X#
+QG3	
+Y6@# 
+YAbT
+Cchc
+`I}*
+W=Dc
+WADc
+WuDc
+W-Dc
+E}Vj
+`ID*
+P@TIc
+`}W#
+@)M7'
+xIpItI<MhI
+@).\X7
+C}v}
+Cqv}
+@Yx*
+0Yt3
+qDqE%
+F	G7
+F	G7
+`A	gX
+DBI!a
+C	7)
+@\@7G
+p>ck
+@9'3
+Y)#"
+@	5HH
+@i#*
+7E8@
+09R,
+7F8@
+j9q.
+AGci
+9Gcf
+ Pe5
+aF,	
+H-2F
+@Xat
+E1F*
+	G	Ec
+cZ7%
+Hy,7
+#D77
+PP=u
+G	Ec
+GAEc
+GaEc
+G1Ec
+\EXAc
+Gck'
+Y1q.
+P@ZY
+CN9q
+c9yq.
+EqFH
+.9q*
+ yq*
+\H#(
+(o\L
+7Gm8
+h7vg
+Cac#
+G}Uce
+}UcZ
+L\Hc
+DD	F
+MXI3
+G}Ucu
+LI9q*
+XDTH
+}Uea
+?L@h
+TDPH
+\Qyq2
+/L@(
+\DXH# 	
+\Q]q
+#L@(
+@Ag}
+XDTH
+XDTH
+H},cX
+G)Ic
+=.rE3
+i""D
+#X7&
+AcT 
+@R2F
+FFrE
+D1JcH$
+`w7cZ
+0v_"
+@#"%
+E1E#
+DN75
+N#&T
+xIHH
+@"DA
+@"DA
+@"DA
+DTAc
+"#,$
+!# 	
+p>35
+@"DA
+H	7)
+ # 	
+JcYP
+Jc\P
+EG!c
+@8cJ
+08cM
+-Gct
+@"DA
+3O)a
+MGcO
+G!EcS
+#HopSGo
+ ;#"
+Gqqc
+#G	E
+@"DA
+@"DA
+5f75
+	i75
+D5f75
+@"DA
+@"DA
+@"DA
+ZZ75
+	GcQ
+XFPB*
+bGrF
+@fDJ
+@"DA
+F!Fa
+f}U}
+@"DA
+@"DA
+@bD2E
+@h76
+!Gc|
+-Gc{7
+@"DA
+	GcW
+@"DA
+JBK75
+E	D!
+JBKEa
+IbJEao
+IbJEa
+@"D#
+yTcZ
+	'7L
+}Gc`
+?	Jq
+@"DA
+I"J>
+@"D7
+@"DA
+@bDJ
+P"TN
+P"TN
+G2Fc
+I"D#
+op1Y
+yTcZ
+L@Af
+opq%
+@"DA
+`}W#
+I9J7I
+ O7F
+1Fcy
+1Fc}
+@"DA
+bD"F
+@bD1E
+o@0(
+@"DA
+@"DA
+IbJEa
+IbJEao
+IbJ&
+TEao
+P"TEa
+`qd*
+@bD#
+@&DV
+@BI"J
+DBI"JN
+@"D:
+	Gc|
+bD"F
+bD"F
+bD"F
+opaN7
+@bDJ
+1Fcu
+LEaop
+ !(#,
+JBKEa
+`qq# 
+IBI&
+ID	c
+<L}Wc
+e3l|
+LEao
+LEao
+"	3i
+MEao
+MEao
+M!ao
+%F!Gcd
+@a=c
+E!ao
+BY!ao
+@bDR
+``Uy
+T@|L7
+@"DA
+@"DA
+` 7R
+GT	d
+GhP7
+GT	i
+4L}V
+=E|P
+O<P7
+lL|P
+	Gc	
+	Gcy
+9G3	
+@Ew}
+@&DN
+P"T2E
+<L}Wc
+aopo
+@"DJ
+@Ew}
+R	3i
+f	"D
+@"DA
+@bD2E
+Maao
+'xL#$
+E!ao
+ao0pc
+G		:
+G%	*
+%D3	
+'		G*
+Y	AB	
+Y	AB	&
+Y	AB	
+@"	3i
+@"	3i
+Y	AB	R
+Y	AB	&
+Y	AB	
+GaJc
+E!ao
+<DxP
+YFbD
+G<DtP
+"JBI!
+<DxP
+ `_*
+	Gc^
+F,P.
+P"TJ
+<<DxP
+<DxP
+PbTJ
+<<DxP
+<DxP
+ED	J
+@bD&
+@bD2E
+EAcG
+@bD2E
+@bD2E
+@bD2E
+@bD#
+o@P*
+@bD&
+PbTN
+i!j"
+iAG#
+H@7F
+PbTJ
+`?c	
+P"TR
+@"DA
+aopp-
+PbTN
+KbL!a
+e3	9
+K"LEa
+@"D&
+Eo /
+-aw}
+QE3T
+'G-7
+@"DA
+yGcd
+`	cd
+K"LEao
+JBKEa
+@"DA
+z	c\	
+9G3T
+Y"Z!a
+K"LEa
+EA3uu
+D\P3
+KbL!a
+2F7	
+IbJEa
+G9D3
+Y	AB	R
+	 g3	YA
+Y	AB	
+?3iI
+Y	AB	N
+YEao
+J"JJ
+@"DA
+ZB[aa
+IEao
+@"DA
+P-G!E
+@Ew}
+W9D3
+`P2#,
+@bD2E
+@"DA
+Z-Gca
+P ~R
+DBI"JN
+IbJEa
+K"LEa
+"1E=
+ PCy
+D1J3
+G2Gc
+@"DA
+	Gcs
+p?-Gca
+@"DA
+@cL'
+@bD&
+bDBI
+@bD&
+-Gcc
+G%J"
+I"JJ
+EEao
+-q#,
+@"DA
+P"TEa
+@"DA
+yTcZ
+`*#&
+qG9Eci
+@"DA
+?#(i
+`lU0YtY8]|]
+`TGA
+?}W#
+?}W#
+?}W#
+`3d4
+IbJEa
+IbJEa
+D}W2
+@}Wc
+0p3e
+C}Wc
+@	EA
+GAE#
+@"DA
+@"DA
+H@bD
+IbJEao
+IbJEa
+M!ao
+K!ao
+@"DA
+@&D&
+PD\@
+LD\@7
+@bD2E
+P"T3u:
+D3t$
+LBM!a
+D\Dc{
+@"DA
+	Gcd
+`4S7
+I	FA
+(]qV
+&D"G
+}Gcs
+}Gcs
+Ad}W#
+rEuT
+F5Eo
+@"DA
+=Ccl
+@"DA
+@"DA
+@"DA
+MAiN
+@fDf
+D	EA
+ao@n
+%EbD
+BI7f
+@BI&
+ao@n
+PbTV
+KbL!a
+Jc@:
+JFKea
+JcO*
+@fDN
+)q# a
+@"D#
+D\@\
+w#"9
+w#"9
+@"DA
+IbJEa
+@"DA
+@bD"E
+DBI"JN
+EoP~
+P"T2EEa
+@"DY
+3	YA
+?3fV
+ao .
+IBI&
+IbJEa
+@bDJ
+1Gcy
+@"D>
+\@ck
+@"DA
+YbZaa
+ N3E
+@bD#
+ao`.
+2Fc{
+YEao
+"J7V
+ao`N
+I"J&
+I"J&
+P"TJ
+L@cj
+G2G#
+DBI#
+I"JJ
+aoP.
+I"JJ
+aoP.
+K"LV
+TBKEao
+@"D&
+1Fcw
+iFcp
+@bDJ
+bD"F
+bD"F
+bD"F
+bD"F
+bD"F
+bD"F
+@"DA
+1Fcx
+@bDJ
+DBIA
+Y	AB	
+Y	AB	"
+3	%A
+Y	AB	V
+?3i9
+Y	AB	
+'A#"$
+EEao
+EEao
+LBM!a
+E!ao
+K"LEa
+YbJBK
+TEao
+KEao
+`PbD
+@"DA
+@bD2E
+PbT!a
+?	Gc
+!Gcn
+opBO
+opBN
+opBO
+GT"A
+pr~*
+\C}v
+yW#	
+@bD#
+@"DB
+@C!G
+U!g&
+`P+I
+@"DA
+!Gc}
+@"DA
+``y"
+P"TJ
+IbJEa
+@OXT9
+%A35
+XT\K
+GUA7
+PbTb
+<%F>
+Pp#*
+PbTZ
+@!;E
+X@\C
+E2F*
+Lyq&
+Uyq"
+cz\	
+LBM!a
+G#$	
+6)Ccd
+PbTN
+E	Fh
+@p[*
+P"TEa
+XAXC
+,IUN
+_XO#
+EA35
+IbJEa
+\AaF
+`TX@
+TEao
+_2F&
+ P2F
+G)Jcd
+PbT&
+@@(9
+\AaF
+ao0p4
+XU\A
+TCXW
+P]cU
+Eaao0
+YbZaao0 /
+	7A3
+"W2X
+0`!	F
+IbJEa
+	\D7
+		_c
+XCcS
+G7?#
+%Gcf
+%Gce
+o Pn7	
+.	F"
+/AgU
+0bDBI
+mq#&
+%A35
+%A35
+@Pr*
+  ;o
+EyF#.
+ @3yF
+ rGc
+P Io
+EA35
+'U\@
+E	Fn
+X@TC
+P@g*
+XAPC
+}Gc\
+@"DA
+A9qZ
+PbTN
+A9qZ
+`O}T"
+LBM!a
+A]qR
+@&D&
+F\Ec
+IbJEa
+@bDN
+aopQc
+@bD>
+LBM!a
+LDbD
+X@"D
+@bD&
+@"DA
+XU\A
+@"DA
+Y"Zaa
+@"DJ
+PH9q"
+["\aa
+!Gcm
+?	G#
+Y"Z!a
+0a|Q
+0aoyE
+Y"Z!ao@
+		_cf
+0AbT@c
+!acp
+@Q-]
+EEao
+IbJEa
+@bDJ
+WD*#
+Gd*#
+PbT!a
+IbJEa
+LccE
+@"DA
+-DU7
+@cn\
+%D3c
+G	)#
+G	 #
+Gi #
+L!F#
+@@s)
+KEao
+GE	a
+'GU"
+@bD&
+'GU&
+bD#,
+G4/#
+# 	$
+	D0N
+`n%FL
+ t\D
+GT/#
+G\Dc
+\LAw}
+H5/c
+@"D35
+=G34
+G2Ea
+	Gcd
+	Gcd
+JBKEa
+P"TEa
+LBM!a
+0@%G
+	Gck
+E4)!
+MGcU'
+GBG#
+@"D&
+@bD&
+d?)H
+F!	F
+P"T&
+IbJEa
+@"D)G#
+XXT#
+p1a}
+XXT#
+@"DA
+@"DA
+~)Gq
+!F9E#
+XU\A
+@"DJ
+@&D&
+@&DN
+F"T*
+TEao
+G"G2F
+DBI6
+0Pp9
+BbDD
+ao0@5
+B"DD
+0pI5
+@"D&
+P"T35
+@"D&
+aGct
+@\\@"
+T!9E
+T!=E
+T!EE
+T!ME
+T!UE
+T!QE
+T!YE
+`0/y
+@"DA
+IUDHN
+G	Gc
+IbJEa
+DU-E
+IU2G
+GU\C
+e2EA
+[hX35
+hX35
+@"DA
+PfT&
+GD?c
+	Gcy
+GDGc
+E4?iE
+POcq
+FT@rG*
+Y!#	
+ET?qE
+Ed?uE
+Gg$*
+@"DJ
+@(\l\c
+@ 5*
+@"DA
+@ W*
+@"DA
+D4@H
+F^	F
+cji	
+G1Gc
+@"D&
+G$	c
+FtAc
+@bDJ
+FXKc
+Gg/y
+kPL=
+ L\L
+XITE
+g?cw
+LIHE
+F*	F
+@"DJ
+%E1H
+@"DA
+GTB:
+I\7	
+Qct%
+@"DA
+Fu	F
+`s'*
+A!Gc
+Fw	F
+@"DA
+Fi	F
+@"DA
+"D3E
+Fj	F
+@"DA
+B"DD
+@"DA
+@"DA
+@"DA
+@"DA
+@"DA
+@"DA
+@"DA
+@bD&
+@bD&
+/yqJ
+\E}Y
+	D0N
+P"TJ
+JBKEa
+F2G]
+E!EA
+GU#,
+G'!>
+P"T&
+G7!>
+G'!>
+\A2G
+P"T&
+'@# 
+@}UA
+LBM!a
+G|Xc
+'JU#
+7	7g
+-Gck
+-Gco
+'L'c
+	_"T
+IEao
+JBKEa
+JBKEa
+JBK7
+_Eao
+		_"
+	_bD
+BE)	
+	D0J
+/AgU
+0bDBI
+WK c
+op0H\M
+E	EA
+op0h
+IbJEa
+N=Ock
+@"DA
+H3EE
+PG3EE
+GI&3
+p@^&
+\U9qN
+E!am
+&!G5
+!aop
+E!ao
+PQ7v
+Ud@#
+E# 4
+Wg@#
+K"LEa
+KyqN
+IbJEa
+\DAg
+H!Fc{
+C3?6
+[b\%a
+EEao
+!Gch
+`bX@\C
+@"DA
+\AX@2F
+GTB:
+\A]q
+GTB:
+Eopo
+Y"Z!a
+@"DA
+K&Lea
+W2GE
+1CcI
+[&\Ia
+K"LEa
+["\aa
+@"DA
+JBKEa
+@bDN
+\Uuq"
+GUAc
+G+	>
+GwAc
+'I&	
+#"	&
+!Gcx
+V2S*
+bD#"6
+<!F#
+E!Eo
+E	Eo
+TS\[
+@"DA
+@"DA
+0@[	
+@"DA
+p me
+3	yA
+E3i[
+K"LEao
+yA3	
+@cfY
+K"LEa
+3	yA3	
+@cP	
+op0k
+EA35E
+JBKEa
+E	EA
+@"DA
+@"D&
+=Gck
+LT"E
+GPX.
+%A#,
+X\T>
+ E\X3
+ `Ja
+@"DA
+IbJEa
+@"DA
+@"DA
+(D	bG3
+	3	%AQ
+Eaao0>
+p E#
+2GbD
+M)N3
+qop 'o
+o@pK
+o@0K	
+Eo@ t
+	EbD
+o@ KoP x.
+!o@P
+ao0`%
+?o0P
+o pQ
+@"D#
+o0P'o0
+@"D&
+E#,$
+@"DA
+JBKEa
+\U]q
+@&DN
+@"D&
+@bDN
+@"DA
+@bD&
+X@\TDC
+P"TJ
+JBKEa
+	Gch
+ pvAE
+ PhAE
+G)Ec
+G!Ec
+JBKEa
+	# '
+@bD#"9
+KTA#"
+K"LEa
+(]qR
+YbZB[
+G3w'
+\Ayq&
+IbJEa
+cq=	
+@3wg
+Gyq"
+@"DA
+Gr#&
+Gl#.
+Gq#&
+g:#&
+Go#.
+G[#&
+Gm#,
+Gj#&
+Gg#(
+gq#"
+gb#&
+'S#*
+Gs#.
+Gt# 
+G{#"
+GU#,
+Gb#.
+G^#$
+':#&
+G4#(
+'k#,
+G~# 
+G}#"
+Gh#(
+'W#,
+'V#$
+'c#*
+Gf#&
+Gy#*
+GT# 
+G2#&
+(3iI
+PbTq
+GB# 
+JEao d;.
+E3w'
+IbJEa
+`\X7
+@"DA
+]Gcd
+F1	G
+G)Dc
+GADc
+ATAc
+B)e#
+l@EA
+_HPp
+"FHP
+Cb	G
+c^@E
+#N@EA
+D1F"
+LTTc
+y	 c
+$D`D
+B)e#
+D?hH
+DHD1F
+$"FHP
+D\H7(
+#.D%
+#.$%
+LG1F>
+G1F>
+HA35
+' ~7
+3l# 
+DX0@
+eAE&
+0@	E
+3i7'
+'G'7,
+(DxD0@3
+s) ~
+ h7F
+}$mE
+ R#&
+V9q"
+?9L=J
+PbTJ
+KbL!a
+Zyw}
+@"DA
+N#"o
+12DA
+@bDU
+C7G8@
+778@
+778@
+7G8@
+$778@
+"778@
+778@
+7G8@
+7G8@
+7G8@
+&7G8@
+$778@
+@"D7
+GFD7
+@bDN
+E-E#
+PnT&
+`\T7
+@_\T7
+@"DA
+[-ao
+K	Eu
+IEaB
+@bDB
+DBIA
+}E7f
+@#"h
+@"D"
+A	Dc
+GZ29
+@&DZ
+GqTE
+K"LEa
+ rbD
+rNbC
+P&TN
+?cdl
+E%O3U
+V3@}
+# !!#*Q
+`!fTW
+$A U
+W$	#
+W'!&
+W$	#
+@BI#
+FG EG
+@bD#
+Y	AI
+IbJEa
+@bD#
+2CcZ
+"NcW>
+yKct
+DBI"J
+|LAy
+WU3w'
+|L-g
+@"DA
+F	Fu
+Eaao
+E%ao
+`<CN
+LcCp
+-DaK
+@"DA
+D AG
+eG3E
+rORN#
+I&J%a
+F9H(
+@"D&
+G*2c
+IbJRK
+@"DA
+@"D&
+@"D&
+@"D#
+IbJ7
+	B	>
+Y	A1G
+BGRU
+BGcS
+RGbU
+BGcU
+WA3	YAB	
+Y	A>
+"G#"
+eq#"
+!G#.1
+2GcP
+2Gc_
+~RE&
+cME/
+3YYAB	
+Y	Ac
+3	 AB	
+bUuI
+]RE0
+ErW6M
+rY3YYA
+'(,>
+F)F,
+D}Z5I<
+?9G#
+77,,
+[}Uu
+@c-&
+A}xQ
+ {# 
+}7F8@
+ 52E
+%Gc	
+(2EA
+}(2EA
+I!KcG
+&|H7
+*\A9q
+E!G:
+D(Dp
+A\E*
+H@AF
+0Sd#
+,}Uq
+"l<Lh
+k<Hh
+,}UU
+(H#$
+r((H
+bt(H
+pQ,#*
+Nqw}
+Bew}
+DL@Z
+Eo0S
+#M\E*
+	Gcc
+	Hcd
+E3	:
+>hDl
+@1-#&
+G	Gc
+@q$#
+GclG
+Gcg7
+ 3,#
+G}Uc
+<EAg}
+<EAw>
+#syq*
+Eyw}
+E2G>
+ #|7
+?7%8@
+@!8(T
+@A7(T
+@a1(T
+g3cO
+	I1n
+L!Iy
+H@cF
+	I1>
+HDcF
+	I1>
+	I1>
+H@cG
+HDcL
+	I1HD
+	I1c
+	I1>
+J<Lh
+,HMo
+3$Q*
+Ayq.
+@H\H
+G9qc
+#$D	
+%HLc
+P# D
+@<P"
+c2Ec
+@qG"
+	IQ7
+GXHc
+GLHc
+}UcM
+JL@&
+ AILD&
+	I.}Uc
+JQ\G
+ !="
+#|}U
+	I.c
+b;#"
+bA#&
+",#*
+\@#"
+c4@A
+&DA*
+G2Fc
+s#*$
+UK@^
+Ul@Z
+F5Fc
+`r2H
+75**
+YUcC
+qUcQ
+qTcS
+c+}G
+7***
+BH2G
+}	"EN
+7=**
+HBH2G
+}DbG
+HBH2G
+HBH2G3
+78**
+\AAG
+=I3	
+AHMWcg
+XT\P
+|\#&
+Tci'
+;Acs
+CfXT
+Cb|]
+G=Fc
+RVBU
+5A# f
+@# V
+HRHC
+GH]c
+HC# 	
+$=gi
+EPQ.
+=h3x
+``%*
+@c~&
+Kcj[
+cD9qc
+G1	A
+L#"D
+P ~"
+G2G"
+\Y9q2
+}1qF
+XrH>
+@PH*
+DaI|L(Lc
+CYmu
+#Smu
+#<Yq.
+0PO*
+MaL3
+MaMc
+KaHc
+DaI3
+AGcv
+mu# 
+ 0%"
+%.-E
+-E]$
+Mcn[
+C%Gc
+C%Gco
+  JH
+`P=M
+C%Gc
+C%Gco
+P@#!
+C%Gco
+C%G.
+A9q*
+#pmu
+@P@c
+@P@c
+@P@c
+@P@c
+@P@c
+@P@c
+@P@c
+@P@c
+@P@c
+\H# 
+#\B2
+c&cp'
+I	Kcv;
+ pN*
+\A	G
+\@"G
+AHAo
+PJ# 
+pA# 
+AHAo
+`p>c
+WVGp
+F"Fl
+G2G3
+GbG>
+V2V\
+`pq9
+X"W\
+`@S	
+`@w*
+E5#*
+``j*
+` a*
+`@P*
+BLBuq
+#]]q
+3	iA
+)Gc|
+P .m
+GrG&
+qTcZ
+0@F*
+3	9A
+ `X*
+ `G*
+  "*
+_Yq*
+ @J(
+  ^*
+ `j*
+ @l*
+  x*
+ @f"
+J# E
+#$a,#&
+*#"q*#,
+(#.Q(V
++#(1)#*A)
+&K)>
+ATA*
+@cm*
+J17-
+2EAF
+P0b)
+@`4QE
+7&8@
+7&8@
+`}Vc
+(Qo `]
+  W&
+ `MJ
+ATAA
+hUo @:
+ `.2EA
+ATAA
+cm9q:
+Ca1U
+GXE2F
+EAFN
+@2Mc
+EAF6
+*Ac^P
+d\@c
+GAFl
+TAFl
+dAUGcW
+@}GcJ
+G# Y
+WbHbW>
+WbHbW>
+`$UE
+}Tcj
+@}u7
+@#"T
+@}v#"T
+Bqw}
+@"DA
+C5	G
+C#X@#
+ d\@
+pnX@
+HA7'8@
+@H@#$$
+F)Gc
+	GEEc
+O	f}
+Oyv}
+\@aw
+F3gW
+N}S}X
+[}w}
+ILEA
+Huu}
+LAw>
+GAwB
+\J!FHA
+Y@2G
+!F3F
+U4@3
+52EA
+1!2H
+F# $
+yqAw
+Ocv7
+opa=op1
+CU7I
+s&&:7
+s&&:7
+;s&':7
+s&&:7
+;s'7:s
+#=]q*
+=9q.
+G2G#(
+,Ayq
+G8Ac
+$@%E
+$@)E
+\]}U
+D\@c
+(H# 
+H\#(
+au#.
+ Pm(H
+G!Ec
+G)Ec
++ A-q
+ /2F
+@cf'
+hD# 
+  {hD
+<H#(
+@T\#.
+\tA:
+lE0I3:
+)Gck
+%Gck
+cY<A
+ Pci
+ 0/# 
+ P9e
+02cX
+E1F*
+crhI
+gA#*
+HbH3
+JbF\H
+AcdL
+jA#,D
+rFbE
+<P8T
+TAiGcJ
+	,D"
+P!F>
+iiz.
+lP!FH
+l@#"
+!GtP}
+|T8T
+<HhP!F|
+Y]DYJ
+TAiG
+Z<AA
+6\A1GYq
+$ A\D
+[AG#
+Get#
+\#"G	1
+CTau
+cO<Q
+hP!F
+@f(X!F,
+`e(TR
+d#"D	# 
+A$QA
+lP!F
+^,X!F(
+C;au
+5H@	
+Dh7	
+Dh7	
+Dh7	
+Dh7	
+Dh7	
+hAG3
+@bDJ
+Es	E}
+@B\H
+G>cV
+01Sc
+5,]E
+pu]E
+DBIN
+AHAA
+G# $
+AHAJ
+bD2F
+EP@ci
+0!sA
+@"D&
+@"D&
+2EbD
+#\A"F
+@"D&
+@"DA
+BHA:
+F"F2G
+y.76
+a.76
+)+yq
+o0A<A
+@"DA
+o0A-
+"D#$
+DBI"JN
+cI&	c^	
+3Z*AR
+bDBI
+@"D>
+CXCu
+OXOE
+@Ccj
+Yeao
+]eao
+]eao
+Mc\V
+McUV
+ {"F
+wrGN
+WGAcJ
+"D# %
+bDBI
+74DT
+cPp9
+@"DA
+PQcG
+Eo@`
+{2El
+a<#*
+&|P#
+.2El
+3	9A
+@bD&
+S2El
+5HD	F
+72El
+!F# 
+52El
+DTHc
+THcy
+G=g}
+G#*4
+TA# $
+FyqN
+P"T#
+TA# $
+aw# 
+F%F)E
+G%F)E
+o Pn
+ 0n5
+y2El
+F%F)E
+G%F)E
+aT2El
+  cV
+g	7)
+IrEV
+T@rE
+\@c[
+HrEJ
+(DlD
+rE7&
+rE7&
+	;Ac
+(DlD
+	\DrW
+Q;}Zc
+JBKEa
+G*)G%
+\D2G
+9Ecs
+@0XBF
+P"T&
+@	LX
+TFYIa
+}Yt	,
+@"DA
+IBI&
+@"DA
+Wcm'
+J%F!H
+%Fcw
+!HAC)Fc
+!Gc@
+%Fcc
+3	 Ac
+ PC*
+ PZ*
+ PccY
+ 0}"V
+VBVN
+C&HcH
+'ARE
+ 0<*
+bD2F
+IbJ&
+IbJEao
+<3t$
+IbJ&
+IbJEao
+<3t$
+N}T3
+}Scj
+@"DA
+F}X3^
+yq7'
+bD2F
+P8cV
+PfT	a
+TFY	a
+bD2G
+\HcG
+bD2F
+%G# 
+XH#$
+L# 	
+@4cS
+cNp	
+9GcR
+VbGc
+d2Dc
+E"Ej
+P{"E
+(GO*
+0$rF5
+F"E)F
+*LMa
+U@cG
+K%?=
+FI%a
+EQ#*
+3	yA#
+Y)@#($
+@cQ*
+3	IA
+Y## 
+E3	*A
+Q)# 
+TZ@V
+9?!Fc
+GA}W3W
+@\P#&
+	#($
+ \#"
+DBI"JN
+'	cS	
+ #7%
+n#&5
+EAMGcH
+I"J>
+2D#,
+bJEa
+IbJEa
+)GO>
+@*DMa
+v<@#*
+@"DA
+B#&1+#$A+
+*#"Q+#.
+*#(!+# a+#.q)
+\@cW
+	I(3
+\@cR
+AG#(
+\@cY
+	GcB
+Eyq"
+X@HH
+T@2E
+`V# D
+$2El
+bD2F
+P"T# 
+BE!f
+!Fch
+5A35
+L&3W'
+1g3w
+XT\K
+C\U"
+B3wg
+"G2F
+ERF3
+B3wG
+"G2F
+EbG3
+\THP
+\THP
+@"DA
+C\U&
+D"JN
+bDBI
+@"DA
+\A# %
+@BI&
+TC#$
+Gf\M
+	$	Gc
+KLCI
+myq&
+|X0Xc
+|X0Xc
+|X0Xc
+T!ao
+3# W
+O\TbD
+1G3	
+P"TZ
+1G3	
+\T"D
+9q	E&
+KbL!a
+`'!E
+@3vV
+PfTJ
+G!ec
+)G	Ec
+5G!ec
+]GAEc
+MG!Ec
+G	ec
+G!ec
+)G	Ec
+]GAE]
+P05A
+Q\Uc
+P\Tc
+P\Tc
+YXUc
+XAcs
+QXUc
+XAcs
+2E|Q
+P@9"
+2E|Q
+7u8@
+  S7e
+ @R7U
+ `Q7U
+7u8@
+@1\@
+o@ A
+#M<D
+E1*"
+	(#$
+4@\\
+\\\c~
+\\\c
+`g#$
+`QLP
+\TXW
+TTQG
+wxEA
+?}W#
+CZ7'
+@}Vc
+<ITUxE
+|DeG
+TWeG
+`sHT
+\TXW
+E)E#
+GbEc
+bD\H
+?HL*
+@B2EA
+%D/A
+ (2EA
+H3	9A#
+L@cf
+C#&*
+PA#"
+	# 4
+E# 4
+`h# I
+C,@A
+?3t$
+@{"F
+WKL7
+`<[.
+G!ec
+DQEu
+|\aw}
+W"G7
+`\L7
+\Lqw
+`^\H
+ Y\H
+`J	EM
+ ~2E
+@w"E
+s$ ~
+3	$A
+)3	$A
+,}UU
++2E}
+\A]q.
+E%ao
+DHDl
+F2F	
+EqFH
+GAg}
+EqFH
+EqFH
+EqFH
+EqFH
+`et;z
+Q.j{
+)o@(";
+&+)/
+xXk<
+@V}L
+R"eh1l
+Q8w^
+VWw-
+HpWgt
+[WS0
