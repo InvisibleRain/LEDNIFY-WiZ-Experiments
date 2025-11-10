@@ -19,7 +19,7 @@ Pins:
 
 ## Firmware
 
-Dumping the firmware requires a full (and quite destructive) teardown of the lighbulb case, followed by unsoldering the wiz board from the power board an soldering a couple of wires to the UART pins. Reading (and possibly writing) of the firmware is possible. The stock firmware is encrypted using AES-256-XTS, however Secure Boot is disabled. Theoretically, it's possible to perform [fault injection](https://courk.cc/esp32-c3-c6-fault-injection#introduction) and/or [side channel](https://courk.cc/breaking-flash-encryption-of-espressif-parts#attacking-the-esp32-c3_1) attacks on ESP32-C3 in order to decrypt the firmware.
+Dumping the firmware requires a full (and quite destructive) teardown of the lighbulb case, followed by unsoldering the wiz board from the power board an soldering a couple of wires to the UART pins. Reading (and possibly writing) of the firmware is possible. The stock firmware is encrypted using AES-256-XTS, however Secure Boot is disabled. Theoretically, it's possible to perform [fault injection](https://courk.cc/esp32-c3-c6-fault-injection#introduction) and/or [side channel](https://courk.cc/breaking-flash-encryption-of-espressif-parts#attacking-the-esp32-c3_1) attacks on ESP32-C3 in order to decrypt the firmware. However it's way more feasible to perform [evasedropping](https://github.com/sbidy/pywizlight/issues/155#issuecomment-1858915977) on a lightbulb running outdated version of firmware in order to obtain an unencrypted image.
 Further analysis is still pending.
 
 ![Front side of the board](front.jpg)
